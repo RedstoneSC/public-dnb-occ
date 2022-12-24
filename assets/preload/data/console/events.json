@@ -1,0 +1,229 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "console",
+		"player1": "consoleplayer",
+		"player2": "consolebambi",
+		"player3": null,
+		"events": [
+			[
+				11636.3636363636,
+				[
+					[
+						"Xbox Achievement",
+						"",
+						""
+					]
+				]
+			],
+			[
+				17454.5454545455,
+				[
+					[
+						"Xbox Achievement",
+						"",
+						""
+					]
+				]
+			],
+			[
+				23272.7272727273,
+				[
+					[
+						"Xbox Achievement",
+						"",
+						""
+					]
+				]
+			],
+			[
+				46545.4545454546,
+				[
+					[
+						"Xbox Achievement",
+						"",
+						""
+					]
+				]
+			],
+			[
+				59636.3636363637,
+				[
+					[
+						"Xbox Achievement",
+						"",
+						""
+					]
+				]
+			],
+			[
+				62545.4545454546,
+				[
+					[
+						"Xbox Achievement",
+						"",
+						""
+					]
+				]
+			],
+			[
+				65454.5454545455,
+				[
+					[
+						"Xbox Achievement",
+						"",
+						""
+					]
+				]
+			],
+			[
+				68363.6363636364,
+				[
+					[
+						"Xbox Achievement",
+						"",
+						""
+					]
+				]
+			],
+			[
+				71545.4545454546,
+				[
+					[
+						"Swear Vocal Toggle hehehehheha",
+						"",
+						""
+					]
+				]
+			],
+			[
+				71818.1818181819,
+				[
+					[
+						"Swear Vocal Toggle hehehehheha",
+						"",
+						""
+					]
+				]
+			],
+			[
+				73363.6363636364,
+				[
+					[
+						"Swear Vocal Toggle hehehehheha",
+						"",
+						""
+					]
+				]
+			],
+			[
+				73727.2727272728,
+				[
+					[
+						"Swear Vocal Toggle hehehehheha",
+						"",
+						""
+					]
+				]
+			],
+			[
+				76090.9090909091,
+				[
+					[
+						"Swear Vocal Toggle hehehehheha",
+						"",
+						""
+					]
+				]
+			],
+			[
+				76636.3636363637,
+				[
+					[
+						"Swear Vocal Toggle hehehehheha",
+						"",
+						""
+					]
+				]
+			],
+			[
+				78545.4545454546,
+				[
+					[
+						"Xbox Achievement",
+						"",
+						""
+					]
+				]
+			],
+			[
+				79272.7272727273,
+				[
+					[
+						"Xbox Achievement",
+						"",
+						""
+					]
+				]
+			],
+			[
+				79909.090909091,
+				[
+					[
+						"Xbox Achievement",
+						"",
+						""
+					]
+				]
+			],
+			[
+				80545.4545454546,
+				[
+					[
+						"Xbox Achievement",
+						"",
+						""
+					]
+				]
+			],
+			[
+				86727.2727272728,
+				[
+					[
+						"Swear Vocal Toggle hehehehheha",
+						"",
+						""
+					]
+				]
+			],
+			[
+				87181.8181818182,
+				[
+					[
+						"Swear Vocal Toggle hehehehheha",
+						"",
+						""
+					]
+				]
+			],
+			[
+				130545.454545455,
+				[
+					[
+						"Xbox Achievement",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": true,
+		"gfVersion": "nothing",
+		"bpm": 165,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Console"
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "rephonu idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "rephonu left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-10
+			],
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "rephonu down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				50
+			],
+			"anim": "singUP",
+			"fps": 30,
+			"name": "rephonu up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "rephonu right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/rephonu",
+	"position": [
+		-230,
+		80
+	],
+	"healthicon": "rephonu",
+	"flip_x": false,
+	"healthbar_colors": [
+		56,
+		75,
+		124
+	],
+	"camera_position": [
+		10,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

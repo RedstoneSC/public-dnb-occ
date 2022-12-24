@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="firefr.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="imagine-getting-set-on-fire0000" x="0" y="0" width="1920" height="1080"/>
+	<SubTexture name="imagine-getting-set-on-fire0001" x="0" y="0" width="1920" height="1080"/>
+	<SubTexture name="imagine-getting-set-on-fire0002" x="1920" y="0" width="1920" height="1080"/>
+	<SubTexture name="imagine-getting-set-on-fire0003" x="1920" y="0" width="1920" height="1080"/>
+	<SubTexture name="imagine-getting-set-on-fire0004" x="3840" y="0" width="1920" height="1080"/>
+	<SubTexture name="imagine-getting-set-on-fire0005" x="3840" y="0" width="1920" height="1080"/>
+	<SubTexture name="imagine-getting-set-on-fire0006" x="5760" y="0" width="1920" height="1080"/>
+	<SubTexture name="imagine-getting-set-on-fire0007" x="5760" y="0" width="1920" height="1080"/>
+	<SubTexture name="imagine-getting-set-on-fire0008" x="0" y="1080" width="1920" height="1080"/>
+	<SubTexture name="imagine-getting-set-on-fire0009" x="0" y="1080" width="1920" height="1080"/>
+	<SubTexture name="imagine-getting-set-on-fire0010" x="1920" y="1080" width="1920" height="1080"/>
+	<SubTexture name="imagine-getting-set-on-fire0011" x="1920" y="1080" width="1920" height="1080"/>
+	<SubTexture name="imagine-getting-set-on-fire0012" x="3840" y="1080" width="1920" height="1080"/>
+	<SubTexture name="imagine-getting-set-on-fire0013" x="3840" y="1080" width="1920" height="1080"/>
+	<SubTexture name="imagine-getting-set-on-fire0014" x="5760" y="1080" width="1920" height="1080"/>
+	<SubTexture name="imagine-getting-set-on-fire0015" x="5760" y="1080" width="1920" height="1080"/>
+	<SubTexture name="imagine-getting-set-on-fire0016" x="0" y="2160" width="1920" height="1080"/>
+	<SubTexture name="imagine-getting-set-on-fire0017" x="0" y="2160" width="1920" height="1080"/>
+	<SubTexture name="imagine-getting-set-on-fire0018" x="1920" y="2160" width="1920" height="1080"/>
+	<SubTexture name="imagine-getting-set-on-fire0019" x="1920" y="2160" width="1920" height="1080"/>
+	<SubTexture name="imagine-getting-set-on-fire0020" x="3840" y="2160" width="1920" height="1080"/>
+	<SubTexture name="imagine-getting-set-on-fire0021" x="3840" y="2160" width="1920" height="1080"/>
+	<SubTexture name="imagine-getting-set-on-fire0022" x="5760" y="2160" width="1920" height="1080"/>
+	<SubTexture name="imagine-getting-set-on-fire0023" x="5760" y="2160" width="1920" height="1080"/>
+	<SubTexture name="imagine-getting-set-on-fire0024" x="0" y="3240" width="1920" height="1080"/>
+	<SubTexture name="imagine-getting-set-on-fire0025" x="0" y="3240" width="1920" height="1080"/>
+</TextureAtlas>

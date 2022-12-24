@@ -1,0 +1,26 @@
+{
+	"songs": [
+		[
+			"Occurathon",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "trio",
+	"storyName": "the trio",
+	"weekBefore": "",
+	"weekName": "Occurathon",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"difficulties": "Hard"
+}

@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "nice",
+			"boxState": "normal",
+			"mod": "NONE",
+			"speed": 0.05,
+			"portrait": "dave"
+		},
+		{
+			"expression": "happy",
+			"text": "correct",
+			"boxState": "normal",
+			"mod": "NONE",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "do you wanrt to sing again",
+			"boxState": "normal",
+			"mod": "NONE",
+			"speed": 0.05,
+			"portrait": "dave"
+		},
+		{
+			"expression": "happy",
+			"text": "correct",
+			"boxState": "normal",
+			"mod": "NONE",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

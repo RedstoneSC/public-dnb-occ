@@ -1,0 +1,35 @@
+{
+	"songs": [
+		[
+			"Icicles",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Triangles",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "flumbo",
+	"storyName": "triangales are 3-sdiers spahes",
+	"weekBefore": "",
+	"weekName": "Flumbo",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"difficulties": ""
+}

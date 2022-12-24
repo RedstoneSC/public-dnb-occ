@@ -1,0 +1,433 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dave_sheet.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="0" y="0" width="366" height="604"/>
+	<SubTexture name="down0001" x="0" y="0" width="366" height="604"/>
+	<SubTexture name="down0002" x="366" y="0" width="366" height="604"/>
+	<SubTexture name="down0003" x="366" y="0" width="366" height="604"/>
+	<SubTexture name="down0004" x="366" y="0" width="366" height="604"/>
+	<SubTexture name="down0005" x="366" y="0" width="366" height="604"/>
+	<SubTexture name="down0006" x="366" y="0" width="366" height="604"/>
+	<SubTexture name="down0007" x="366" y="0" width="366" height="604"/>
+	<SubTexture name="down0008" x="366" y="0" width="366" height="604"/>
+	<SubTexture name="down0009" x="366" y="0" width="366" height="604"/>
+	<SubTexture name="down0010" x="366" y="0" width="366" height="604"/>
+	<SubTexture name="down0011" x="366" y="0" width="366" height="604"/>
+	<SubTexture name="down0012" x="366" y="0" width="366" height="604"/>
+	<SubTexture name="down0013" x="366" y="0" width="366" height="604"/>
+	<SubTexture name="down miss0000" x="732" y="0" width="366" height="599"/>
+	<SubTexture name="down miss0001" x="1098" y="0" width="366" height="599"/>
+	<SubTexture name="down miss0002" x="1098" y="0" width="366" height="599"/>
+	<SubTexture name="down miss0003" x="1464" y="0" width="366" height="599"/>
+	<SubTexture name="down miss0004" x="1464" y="0" width="366" height="599"/>
+	<SubTexture name="down miss0005" x="1464" y="0" width="366" height="599"/>
+	<SubTexture name="down miss0006" x="1464" y="0" width="366" height="599"/>
+	<SubTexture name="down miss0007" x="1464" y="0" width="366" height="599"/>
+	<SubTexture name="down miss0008" x="1464" y="0" width="366" height="599"/>
+	<SubTexture name="down miss0009" x="1464" y="0" width="366" height="599"/>
+	<SubTexture name="down miss0010" x="1464" y="0" width="366" height="599"/>
+	<SubTexture name="down miss0011" x="1464" y="0" width="366" height="599"/>
+	<SubTexture name="down miss0012" x="1464" y="0" width="366" height="599"/>
+	<SubTexture name="down miss0013" x="1464" y="0" width="366" height="599"/>
+	<SubTexture name="great job0000" x="1830" y="0" width="431" height="590"/>
+	<SubTexture name="great job0001" x="2261" y="0" width="431" height="590"/>
+	<SubTexture name="great job0002" x="2692" y="0" width="431" height="590"/>
+	<SubTexture name="great job0003" x="3123" y="0" width="431" height="590"/>
+	<SubTexture name="great job0004" x="3554" y="0" width="431" height="590"/>
+	<SubTexture name="great job0005" x="3985" y="0" width="431" height="590"/>
+	<SubTexture name="great job0006" x="3985" y="0" width="431" height="590"/>
+	<SubTexture name="great job0007" x="4416" y="0" width="431" height="590"/>
+	<SubTexture name="great job0008" x="4416" y="0" width="431" height="590"/>
+	<SubTexture name="great job0009" x="4847" y="0" width="431" height="590"/>
+	<SubTexture name="great job0010" x="5278" y="0" width="431" height="590"/>
+	<SubTexture name="great job0011" x="5278" y="0" width="431" height="590"/>
+	<SubTexture name="great job0012" x="5709" y="0" width="431" height="590"/>
+	<SubTexture name="great job0013" x="5709" y="0" width="431" height="590"/>
+	<SubTexture name="great job0014" x="6140" y="0" width="431" height="590"/>
+	<SubTexture name="great job0015" x="6140" y="0" width="431" height="590"/>
+	<SubTexture name="great job0016" x="6571" y="0" width="431" height="590"/>
+	<SubTexture name="great job0017" x="7002" y="0" width="431" height="590"/>
+	<SubTexture name="great job0018" x="7433" y="0" width="431" height="590"/>
+	<SubTexture name="great job0019" x="7433" y="0" width="431" height="590"/>
+	<SubTexture name="great job0020" x="0" y="604" width="431" height="590"/>
+	<SubTexture name="great job0021" x="431" y="604" width="431" height="590"/>
+	<SubTexture name="great job0022" x="6571" y="0" width="431" height="590"/>
+	<SubTexture name="great job0023" x="862" y="604" width="431" height="590"/>
+	<SubTexture name="great job0024" x="1293" y="604" width="431" height="590"/>
+	<SubTexture name="great job0025" x="1724" y="604" width="431" height="590"/>
+	<SubTexture name="great job0026" x="2155" y="604" width="431" height="590"/>
+	<SubTexture name="great job0027" x="7433" y="0" width="431" height="590"/>
+	<SubTexture name="great job0028" x="2586" y="604" width="431" height="590"/>
+	<SubTexture name="great job0029" x="3017" y="604" width="431" height="590"/>
+	<SubTexture name="great job0030" x="3017" y="604" width="431" height="590"/>
+	<SubTexture name="great job0031" x="3448" y="604" width="431" height="590"/>
+	<SubTexture name="great job0032" x="3448" y="604" width="431" height="590"/>
+	<SubTexture name="great job0033" x="3879" y="604" width="431" height="590"/>
+	<SubTexture name="great job0034" x="4310" y="604" width="431" height="590"/>
+	<SubTexture name="great job0035" x="4741" y="604" width="431" height="590"/>
+	<SubTexture name="great job0036" x="5172" y="604" width="431" height="590"/>
+	<SubTexture name="great job0037" x="5603" y="604" width="431" height="590"/>
+	<SubTexture name="great job0038" x="6034" y="604" width="431" height="590"/>
+	<SubTexture name="great job0039" x="6034" y="604" width="431" height="590"/>
+	<SubTexture name="great job0040" x="6465" y="604" width="431" height="590"/>
+	<SubTexture name="great job0041" x="6465" y="604" width="431" height="590"/>
+	<SubTexture name="great job0042" x="6896" y="604" width="431" height="590"/>
+	<SubTexture name="great job0043" x="6896" y="604" width="431" height="590"/>
+	<SubTexture name="great job0044" x="6896" y="604" width="431" height="590"/>
+	<SubTexture name="great job0045" x="6896" y="604" width="431" height="590"/>
+	<SubTexture name="great job0046" x="6896" y="604" width="431" height="590"/>
+	<SubTexture name="great job0047" x="6896" y="604" width="431" height="590"/>
+	<SubTexture name="great job0048" x="6896" y="604" width="431" height="590"/>
+	<SubTexture name="great job0049" x="6896" y="604" width="431" height="590"/>
+	<SubTexture name="great job0050" x="7327" y="604" width="431" height="590"/>
+	<SubTexture name="great job0051" x="7758" y="604" width="431" height="590"/>
+	<SubTexture name="great job0052" x="0" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0053" x="431" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0054" x="862" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0055" x="1293" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0056" x="1724" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0057" x="2155" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0058" x="2586" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0059" x="3017" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0060" x="3017" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0061" x="3448" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0062" x="3879" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0063" x="4310" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0064" x="4310" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0065" x="4741" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0066" x="5172" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0067" x="5603" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0068" x="2586" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0069" x="3017" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0070" x="6034" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0071" x="3448" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0072" x="3448" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0073" x="6465" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0074" x="6896" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0075" x="7327" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0076" x="7758" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0077" x="0" y="1784" width="431" height="590"/>
+	<SubTexture name="great job0078" x="0" y="1784" width="431" height="590"/>
+	<SubTexture name="great job0079" x="431" y="1784" width="431" height="590"/>
+	<SubTexture name="great job0080" x="431" y="1784" width="431" height="590"/>
+	<SubTexture name="great job0081" x="862" y="1784" width="431" height="590"/>
+	<SubTexture name="great job0082" x="862" y="1784" width="431" height="590"/>
+	<SubTexture name="great job0083" x="1293" y="1784" width="431" height="590"/>
+	<SubTexture name="great job0084" x="1293" y="1784" width="431" height="590"/>
+	<SubTexture name="great job0085" x="1724" y="1784" width="431" height="590"/>
+	<SubTexture name="great job0086" x="1724" y="1784" width="431" height="590"/>
+	<SubTexture name="great job0087" x="2155" y="1784" width="431" height="590"/>
+	<SubTexture name="great job0088" x="2586" y="1784" width="431" height="590"/>
+	<SubTexture name="great job0089" x="3017" y="1784" width="431" height="590"/>
+	<SubTexture name="great job0090" x="0" y="1784" width="431" height="590"/>
+	<SubTexture name="great job0091" x="3448" y="1784" width="431" height="590"/>
+	<SubTexture name="great job0092" x="3879" y="1784" width="431" height="590"/>
+	<SubTexture name="great job0093" x="4310" y="1784" width="431" height="590"/>
+	<SubTexture name="great job0094" x="4741" y="1784" width="431" height="590"/>
+	<SubTexture name="great job0095" x="5172" y="1784" width="431" height="590"/>
+	<SubTexture name="great job0096" x="2586" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0097" x="5603" y="1784" width="431" height="590"/>
+	<SubTexture name="great job0098" x="6034" y="1784" width="431" height="590"/>
+	<SubTexture name="great job0099" x="6465" y="1784" width="431" height="590"/>
+	<SubTexture name="great job0100" x="6465" y="1784" width="431" height="590"/>
+	<SubTexture name="great job0101" x="6896" y="1784" width="431" height="590"/>
+	<SubTexture name="great job0102" x="7327" y="1784" width="431" height="590"/>
+	<SubTexture name="great job0103" x="7758" y="1784" width="431" height="590"/>
+	<SubTexture name="great job0104" x="0" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0105" x="0" y="1784" width="431" height="590"/>
+	<SubTexture name="great job0106" x="431" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0107" x="862" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0108" x="862" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0109" x="1293" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0110" x="1293" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0111" x="1724" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0112" x="2155" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0113" x="2155" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0114" x="2586" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0115" x="2586" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0116" x="3017" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0117" x="3017" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0118" x="3448" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0119" x="3448" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0120" x="3879" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0121" x="3879" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0122" x="4310" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0123" x="4310" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0124" x="4741" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0125" x="4741" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0126" x="5172" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0127" x="5172" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0128" x="7758" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0129" x="7758" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0130" x="7758" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0131" x="7758" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0132" x="7758" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0133" x="7758" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0134" x="7758" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0135" x="7758" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0136" x="7758" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0137" x="7758" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0138" x="7758" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0139" x="7758" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0140" x="7758" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0141" x="7758" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0142" x="7758" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0143" x="7758" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0144" x="7758" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0145" x="7758" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0146" x="7758" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0147" x="7758" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0148" x="7758" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0149" x="7758" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0150" x="7758" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0151" x="7758" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0152" x="7758" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0153" x="7758" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0154" x="7758" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0155" x="7758" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0156" x="7758" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0157" x="7758" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0158" x="7758" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0159" x="7758" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0160" x="7758" y="1194" width="431" height="590"/>
+	<SubTexture name="great job0161" x="5603" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0162" x="6034" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0163" x="6465" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0164" x="6896" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0165" x="7327" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0166" x="7758" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0167" x="7758" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0168" x="7758" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0169" x="7758" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0170" x="7758" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0171" x="7758" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0172" x="7758" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0173" x="7758" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0174" x="7758" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0175" x="7758" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0176" x="7758" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0177" x="7758" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0178" x="7758" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0179" x="7758" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0180" x="7758" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0181" x="7758" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0182" x="7758" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0183" x="7758" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0184" x="7758" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0185" x="7758" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0186" x="7758" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0187" x="7758" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0188" x="7758" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0189" x="7758" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0190" x="7758" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0191" x="7758" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0192" x="7758" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0193" x="7758" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0194" x="7758" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0195" x="7758" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0196" x="7758" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0197" x="7758" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0198" x="7758" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0199" x="7758" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0200" x="7758" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0201" x="7758" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0202" x="7758" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0203" x="7758" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0204" x="7758" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0205" x="7758" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0206" x="7758" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0207" x="7758" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0208" x="7758" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0209" x="7758" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0210" x="7758" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0211" x="7758" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0212" x="7758" y="2374" width="431" height="590"/>
+	<SubTexture name="great job0213" x="0" y="2964" width="431" height="590"/>
+	<SubTexture name="great job0214" x="0" y="2964" width="431" height="590"/>
+	<SubTexture name="great job0215" x="431" y="2964" width="431" height="590"/>
+	<SubTexture name="great job0216" x="431" y="2964" width="431" height="590"/>
+	<SubTexture name="great job0217" x="862" y="2964" width="431" height="590"/>
+	<SubTexture name="great job0218" x="862" y="2964" width="431" height="590"/>
+	<SubTexture name="great job0219" x="1293" y="2964" width="431" height="590"/>
+	<SubTexture name="great job0220" x="1724" y="2964" width="431" height="590"/>
+	<SubTexture name="great job0221" x="2155" y="2964" width="431" height="590"/>
+	<SubTexture name="great job0222" x="2586" y="2964" width="431" height="590"/>
+	<SubTexture name="great job0223" x="2586" y="2964" width="431" height="590"/>
+	<SubTexture name="great job0224" x="3017" y="2964" width="431" height="590"/>
+	<SubTexture name="great job0225" x="3017" y="2964" width="431" height="590"/>
+	<SubTexture name="great job0226" x="3017" y="2964" width="431" height="590"/>
+	<SubTexture name="great job0227" x="3017" y="2964" width="431" height="590"/>
+	<SubTexture name="great job0228" x="3017" y="2964" width="431" height="590"/>
+	<SubTexture name="great job0229" x="3017" y="2964" width="431" height="590"/>
+	<SubTexture name="great job0230" x="3017" y="2964" width="431" height="590"/>
+	<SubTexture name="great job0231" x="3017" y="2964" width="431" height="590"/>
+	<SubTexture name="great job0232" x="3017" y="2964" width="431" height="590"/>
+	<SubTexture name="great job0233" x="3017" y="2964" width="431" height="590"/>
+	<SubTexture name="great job0234" x="3017" y="2964" width="431" height="590"/>
+	<SubTexture name="great job0235" x="3017" y="2964" width="431" height="590"/>
+	<SubTexture name="great job0236" x="3017" y="2964" width="431" height="590"/>
+	<SubTexture name="great job0237" x="3017" y="2964" width="431" height="590"/>
+	<SubTexture name="great job0238" x="3448" y="2964" width="431" height="590"/>
+	<SubTexture name="great job0239" x="3879" y="2964" width="431" height="590"/>
+	<SubTexture name="great job0240" x="4310" y="2964" width="431" height="590"/>
+	<SubTexture name="great job0241" x="4741" y="2964" width="431" height="590"/>
+	<SubTexture name="great job0242" x="5172" y="2964" width="431" height="590"/>
+	<SubTexture name="great job0243" x="5603" y="2964" width="431" height="590"/>
+	<SubTexture name="great job0244" x="6034" y="2964" width="431" height="590"/>
+	<SubTexture name="great job0245" x="6465" y="2964" width="431" height="590"/>
+	<SubTexture name="great job0246" x="6896" y="2964" width="431" height="590"/>
+	<SubTexture name="great job0247" x="7327" y="2964" width="431" height="590"/>
+	<SubTexture name="great job0248" x="7758" y="2964" width="431" height="590"/>
+	<SubTexture name="great job0249" x="0" y="3554" width="431" height="590"/>
+	<SubTexture name="great job0250" x="431" y="3554" width="431" height="590"/>
+	<SubTexture name="great job0251" x="431" y="3554" width="431" height="590"/>
+	<SubTexture name="great job0252" x="862" y="3554" width="431" height="590"/>
+	<SubTexture name="great job0253" x="862" y="3554" width="431" height="590"/>
+	<SubTexture name="great job0254" x="1293" y="3554" width="431" height="590"/>
+	<SubTexture name="great job0255" x="1293" y="3554" width="431" height="590"/>
+	<SubTexture name="great job0256" x="1724" y="3554" width="431" height="590"/>
+	<SubTexture name="great job0257" x="1724" y="3554" width="431" height="590"/>
+	<SubTexture name="great job0258" x="1724" y="3554" width="431" height="590"/>
+	<SubTexture name="great job0259" x="1724" y="3554" width="431" height="590"/>
+	<SubTexture name="great job0260" x="1724" y="3554" width="431" height="590"/>
+	<SubTexture name="great job0261" x="1724" y="3554" width="431" height="590"/>
+	<SubTexture name="great job0262" x="1724" y="3554" width="431" height="590"/>
+	<SubTexture name="great job0263" x="1724" y="3554" width="431" height="590"/>
+	<SubTexture name="great job0264" x="2155" y="3554" width="431" height="590"/>
+	<SubTexture name="great job0265" x="2155" y="3554" width="431" height="590"/>
+	<SubTexture name="great job0266" x="2586" y="3554" width="431" height="590"/>
+	<SubTexture name="great job0267" x="2586" y="3554" width="431" height="590"/>
+	<SubTexture name="great job0268" x="3017" y="3554" width="431" height="590"/>
+	<SubTexture name="great job0269" x="3017" y="3554" width="431" height="590"/>
+	<SubTexture name="great job0270" x="3448" y="3554" width="431" height="590"/>
+	<SubTexture name="great job0271" x="3448" y="3554" width="431" height="590"/>
+	<SubTexture name="great job0272" x="3879" y="3554" width="431" height="590"/>
+	<SubTexture name="great job0273" x="3879" y="3554" width="431" height="590"/>
+	<SubTexture name="great job0274" x="3879" y="3554" width="431" height="590"/>
+	<SubTexture name="great job0275" x="3879" y="3554" width="431" height="590"/>
+	<SubTexture name="great job0276" x="3879" y="3554" width="431" height="590"/>
+	<SubTexture name="great job0277" x="3879" y="3554" width="431" height="590"/>
+	<SubTexture name="great job0278" x="4310" y="3554" width="431" height="590"/>
+	<SubTexture name="great job0279" x="4310" y="3554" width="431" height="590"/>
+	<SubTexture name="great job0280" x="4741" y="3554" width="431" height="590"/>
+	<SubTexture name="great job0281" x="4741" y="3554" width="431" height="590"/>
+	<SubTexture name="great job0282" x="5172" y="3554" width="431" height="590"/>
+	<SubTexture name="great job0283" x="5172" y="3554" width="431" height="590"/>
+	<SubTexture name="great job0284" x="5603" y="3554" width="431" height="590"/>
+	<SubTexture name="great job0285" x="5603" y="3554" width="431" height="590"/>
+	<SubTexture name="great job0286" x="6034" y="3554" width="431" height="590"/>
+	<SubTexture name="great job0287" x="6034" y="3554" width="431" height="590"/>
+	<SubTexture name="hey0000" x="6465" y="3554" width="403" height="597"/>
+	<SubTexture name="hey0001" x="6465" y="3554" width="403" height="597"/>
+	<SubTexture name="hey0002" x="6868" y="3554" width="403" height="597"/>
+	<SubTexture name="hey0003" x="6868" y="3554" width="403" height="597"/>
+	<SubTexture name="hey0004" x="7271" y="3554" width="403" height="597"/>
+	<SubTexture name="hey0005" x="7271" y="3554" width="403" height="597"/>
+	<SubTexture name="hey0006" x="7271" y="3554" width="403" height="597"/>
+	<SubTexture name="hey0007" x="7271" y="3554" width="403" height="597"/>
+	<SubTexture name="hey0008" x="7271" y="3554" width="403" height="597"/>
+	<SubTexture name="hey0009" x="7271" y="3554" width="403" height="597"/>
+	<SubTexture name="hey0010" x="7271" y="3554" width="403" height="597"/>
+	<SubTexture name="hey0011" x="7271" y="3554" width="403" height="597"/>
+	<SubTexture name="hey0012" x="7271" y="3554" width="403" height="597"/>
+	<SubTexture name="hey0013" x="7271" y="3554" width="403" height="597"/>
+	<SubTexture name="idle0000" x="7674" y="3554" width="393" height="586"/>
+	<SubTexture name="idle0001" x="7674" y="3554" width="393" height="586"/>
+	<SubTexture name="idle0002" x="0" y="4151" width="393" height="586"/>
+	<SubTexture name="idle0003" x="0" y="4151" width="393" height="586"/>
+	<SubTexture name="idle0004" x="0" y="4151" width="393" height="586"/>
+	<SubTexture name="idle0005" x="393" y="4151" width="393" height="586"/>
+	<SubTexture name="idle0006" x="393" y="4151" width="393" height="586"/>
+	<SubTexture name="idle0007" x="786" y="4151" width="393" height="586"/>
+	<SubTexture name="idle0008" x="786" y="4151" width="393" height="586"/>
+	<SubTexture name="idle0009" x="1179" y="4151" width="393" height="586"/>
+	<SubTexture name="idle0010" x="1179" y="4151" width="393" height="586"/>
+	<SubTexture name="idle0011" x="1179" y="4151" width="393" height="586"/>
+	<SubTexture name="idle0012" x="1179" y="4151" width="393" height="586"/>
+	<SubTexture name="idle0013" x="1179" y="4151" width="393" height="586"/>
+	<SubTexture name="left0000" x="1572" y="4151" width="420" height="599"/>
+	<SubTexture name="left0001" x="1572" y="4151" width="420" height="599"/>
+	<SubTexture name="left0002" x="1992" y="4151" width="420" height="599"/>
+	<SubTexture name="left0003" x="1992" y="4151" width="420" height="599"/>
+	<SubTexture name="left0004" x="1992" y="4151" width="420" height="599"/>
+	<SubTexture name="left0005" x="1992" y="4151" width="420" height="599"/>
+	<SubTexture name="left0006" x="1992" y="4151" width="420" height="599"/>
+	<SubTexture name="left0007" x="1992" y="4151" width="420" height="599"/>
+	<SubTexture name="left0008" x="1992" y="4151" width="420" height="599"/>
+	<SubTexture name="left0009" x="1992" y="4151" width="420" height="599"/>
+	<SubTexture name="left0010" x="1992" y="4151" width="420" height="599"/>
+	<SubTexture name="left0011" x="1992" y="4151" width="420" height="599"/>
+	<SubTexture name="left0012" x="1992" y="4151" width="420" height="599"/>
+	<SubTexture name="left0013" x="1992" y="4151" width="420" height="599"/>
+	<SubTexture name="left miss0000" x="2412" y="4151" width="424" height="599"/>
+	<SubTexture name="left miss0001" x="2836" y="4151" width="424" height="599"/>
+	<SubTexture name="left miss0002" x="2836" y="4151" width="424" height="599"/>
+	<SubTexture name="left miss0003" x="3260" y="4151" width="424" height="599"/>
+	<SubTexture name="left miss0004" x="3260" y="4151" width="424" height="599"/>
+	<SubTexture name="left miss0005" x="3260" y="4151" width="424" height="599"/>
+	<SubTexture name="left miss0006" x="3260" y="4151" width="424" height="599"/>
+	<SubTexture name="left miss0007" x="3260" y="4151" width="424" height="599"/>
+	<SubTexture name="left miss0008" x="3260" y="4151" width="424" height="599"/>
+	<SubTexture name="left miss0009" x="3260" y="4151" width="424" height="599"/>
+	<SubTexture name="left miss0010" x="3260" y="4151" width="424" height="599"/>
+	<SubTexture name="left miss0011" x="3260" y="4151" width="424" height="599"/>
+	<SubTexture name="left miss0012" x="3260" y="4151" width="424" height="599"/>
+	<SubTexture name="left miss0013" x="3260" y="4151" width="424" height="599"/>
+	<SubTexture name="right0000" x="3684" y="4151" width="381" height="593"/>
+	<SubTexture name="right0001" x="3684" y="4151" width="381" height="593"/>
+	<SubTexture name="right0002" x="4065" y="4151" width="381" height="593"/>
+	<SubTexture name="right0003" x="4065" y="4151" width="381" height="593"/>
+	<SubTexture name="right0004" x="4065" y="4151" width="381" height="593"/>
+	<SubTexture name="right0005" x="4065" y="4151" width="381" height="593"/>
+	<SubTexture name="right0006" x="4065" y="4151" width="381" height="593"/>
+	<SubTexture name="right0007" x="4065" y="4151" width="381" height="593"/>
+	<SubTexture name="right0008" x="4065" y="4151" width="381" height="593"/>
+	<SubTexture name="right0009" x="4065" y="4151" width="381" height="593"/>
+	<SubTexture name="right0010" x="4065" y="4151" width="381" height="593"/>
+	<SubTexture name="right0011" x="4065" y="4151" width="381" height="593"/>
+	<SubTexture name="right0012" x="4065" y="4151" width="381" height="593"/>
+	<SubTexture name="right0013" x="4065" y="4151" width="381" height="593"/>
+	<SubTexture name="right miss0000" x="4446" y="4151" width="385" height="593"/>
+	<SubTexture name="right miss0001" x="4831" y="4151" width="385" height="593"/>
+	<SubTexture name="right miss0002" x="4831" y="4151" width="385" height="593"/>
+	<SubTexture name="right miss0003" x="5216" y="4151" width="385" height="593"/>
+	<SubTexture name="right miss0004" x="5216" y="4151" width="385" height="593"/>
+	<SubTexture name="right miss0005" x="5216" y="4151" width="385" height="593"/>
+	<SubTexture name="right miss0006" x="5216" y="4151" width="385" height="593"/>
+	<SubTexture name="right miss0007" x="5216" y="4151" width="385" height="593"/>
+	<SubTexture name="right miss0008" x="5216" y="4151" width="385" height="593"/>
+	<SubTexture name="right miss0009" x="5216" y="4151" width="385" height="593"/>
+	<SubTexture name="right miss0010" x="5216" y="4151" width="385" height="593"/>
+	<SubTexture name="right miss0011" x="5216" y="4151" width="385" height="593"/>
+	<SubTexture name="right miss0012" x="5216" y="4151" width="385" height="593"/>
+	<SubTexture name="right miss0013" x="5216" y="4151" width="385" height="593"/>
+	<SubTexture name="up0000" x="5601" y="4151" width="434" height="612"/>
+	<SubTexture name="up0001" x="5601" y="4151" width="434" height="612"/>
+	<SubTexture name="up0002" x="6035" y="4151" width="434" height="612"/>
+	<SubTexture name="up0003" x="6035" y="4151" width="434" height="612"/>
+	<SubTexture name="up0004" x="6035" y="4151" width="434" height="612"/>
+	<SubTexture name="up0005" x="6035" y="4151" width="434" height="612"/>
+	<SubTexture name="up0006" x="6035" y="4151" width="434" height="612"/>
+	<SubTexture name="up0007" x="6035" y="4151" width="434" height="612"/>
+	<SubTexture name="up0008" x="6035" y="4151" width="434" height="612"/>
+	<SubTexture name="up0009" x="6035" y="4151" width="434" height="612"/>
+	<SubTexture name="up0010" x="6035" y="4151" width="434" height="612"/>
+	<SubTexture name="up0011" x="6035" y="4151" width="434" height="612"/>
+	<SubTexture name="up0012" x="6035" y="4151" width="434" height="612"/>
+	<SubTexture name="up0013" x="6035" y="4151" width="434" height="612"/>
+	<SubTexture name="up miss0000" x="6469" y="4151" width="437" height="614"/>
+	<SubTexture name="up miss0001" x="6906" y="4151" width="437" height="614"/>
+	<SubTexture name="up miss0002" x="6906" y="4151" width="437" height="614"/>
+	<SubTexture name="up miss0003" x="7343" y="4151" width="437" height="614"/>
+	<SubTexture name="up miss0004" x="7343" y="4151" width="437" height="614"/>
+	<SubTexture name="up miss0005" x="7343" y="4151" width="437" height="614"/>
+	<SubTexture name="up miss0006" x="7343" y="4151" width="437" height="614"/>
+	<SubTexture name="up miss0007" x="7343" y="4151" width="437" height="614"/>
+	<SubTexture name="up miss0008" x="7343" y="4151" width="437" height="614"/>
+	<SubTexture name="up miss0009" x="7343" y="4151" width="437" height="614"/>
+	<SubTexture name="up miss0010" x="7343" y="4151" width="437" height="614"/>
+	<SubTexture name="up miss0011" x="7343" y="4151" width="437" height="614"/>
+	<SubTexture name="up miss0012" x="7343" y="4151" width="437" height="614"/>
+	<SubTexture name="up miss0013" x="7343" y="4151" width="437" height="614"/>
+</TextureAtlas>

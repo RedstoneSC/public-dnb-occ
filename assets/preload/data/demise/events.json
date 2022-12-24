@@ -1,0 +1,79 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "finalCosmic",
+		"player1": "bf",
+		"player2": "cosmic",
+		"player3": null,
+		"events": [
+			[
+				1020,
+				[
+					[
+						"Cosmic Eye",
+						"0",
+						"17"
+					]
+				]
+			],
+			[
+				94260,
+				[
+					[
+						"Cosmic Eye",
+						"0",
+						"15"
+					]
+				]
+			],
+			[
+				154500,
+				[
+					[
+						"Cosmic Eye",
+						"0",
+						"26"
+					]
+				]
+			],
+			[
+				217020,
+				[
+					[
+						"Cosmic Eye",
+						"0",
+						"23"
+					]
+				]
+			],
+			[
+				280680,
+				[
+					[
+						"Cosmic Eye",
+						"0",
+						"20"
+					]
+				]
+			],
+			[
+				324300,
+				[
+					[
+						"Cosmic Eye",
+						"0",
+						"5"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": true,
+		"gfVersion": "gf",
+		"bpm": 250,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Demise"
+	}
+}

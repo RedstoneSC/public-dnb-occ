@@ -1,0 +1,44 @@
+{
+	"songs": [
+		[
+			"Gate",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Wheelchair",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Cubic",
+			"dave3d",
+			[
+				69,
+				69,
+				69
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "dace",
+	"storyName": "is that a wheelchair refrernecfee??!@??!?!?!?!?!?!?!??!?!?!?!?!?",
+	"weekBefore": "",
+	"weekName": "Dave",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"difficulties": ""
+}

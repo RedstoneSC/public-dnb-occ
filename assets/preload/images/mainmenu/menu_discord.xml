@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu-discord.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="discord basic0000" x="0" y="0" width="550" height="121" frameX="0" frameY="-3" frameWidth="550" frameHeight="125"/>
+	<SubTexture name="discord basic0001" x="0" y="0" width="550" height="121" frameX="0" frameY="-3" frameWidth="550" frameHeight="125"/>
+	<SubTexture name="discord basic0002" x="0" y="0" width="550" height="121" frameX="0" frameY="-3" frameWidth="550" frameHeight="125"/>
+	<SubTexture name="discord basic0003" x="0" y="121" width="548" height="124" frameX="0" frameY="-1" frameWidth="550" frameHeight="125"/>
+	<SubTexture name="discord basic0004" x="0" y="121" width="548" height="124" frameX="0" frameY="-1" frameWidth="550" frameHeight="125"/>
+	<SubTexture name="discord basic0005" x="0" y="121" width="548" height="124" frameX="0" frameY="-1" frameWidth="550" frameHeight="125"/>
+	<SubTexture name="discord basic0006" x="0" y="245" width="548" height="125" frameX="0" frameY="0" frameWidth="550" frameHeight="125"/>
+	<SubTexture name="discord basic0007" x="0" y="245" width="548" height="125" frameX="0" frameY="0" frameWidth="550" frameHeight="125"/>
+	<SubTexture name="discord basic0008" x="0" y="245" width="548" height="125" frameX="0" frameY="0" frameWidth="550" frameHeight="125"/>
+	<SubTexture name="discord white0000" x="0" y="370" width="556" height="133" frameX="-1" frameY="0" frameWidth="557" frameHeight="134"/>
+	<SubTexture name="discord white0001" x="0" y="503" width="555" height="132" frameX="-1" frameY="-1" frameWidth="557" frameHeight="134"/>
+	<SubTexture name="discord white0002" x="0" y="635" width="554" height="133" frameX="0" frameY="-1" frameWidth="557" frameHeight="134"/>
+</TextureAtlas>

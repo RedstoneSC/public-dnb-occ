@@ -1,0 +1,50 @@
+{
+	"position": [
+		-90,
+		-180
+	],
+	"dialogue_pos": "left",
+	"scale": 1,
+	"image": "flumboDialogue",
+	"animations": [
+		{
+			"loop_name": "up lp",
+			"idle_offsets": [
+				1,
+				17
+			],
+			"idle_name": "idle lop",
+			"anim": "up",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "right l",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "idle lop",
+			"anim": "right",
+			"loop_offsets": [
+				-51,
+				4
+			]
+		},
+		{
+			"loop_name": "idle lop",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "idle lop",
+			"anim": "idle",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

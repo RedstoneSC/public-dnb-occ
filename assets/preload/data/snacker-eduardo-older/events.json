@@ -1,0 +1,54 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "daPizza",
+		"player1": "bf",
+		"player2": "eduardo",
+		"player3": null,
+		"events": [
+			[
+				60109.4890510949,
+				[
+					[
+						"Screen Shake",
+						"1, 0.1",
+						"1,0.1"
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				61270.0729927007,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				64010.0364963503,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": true,
+		"gfVersion": "gf",
+		"bpm": 137,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Snacker-Eduardo"
+	}
+}

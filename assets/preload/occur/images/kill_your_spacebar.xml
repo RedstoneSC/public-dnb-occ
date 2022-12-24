@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kill your spacebar.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="AHHHh0000" x="0" y="0" width="409" height="134"/>
+	<SubTexture name="AHHHh0001" x="409" y="0" width="409" height="134"/>
+	<SubTexture name="AHHHh0002" x="0" y="134" width="409" height="134"/>
+	<SubTexture name="AHHHh0003" x="409" y="134" width="409" height="134"/>
+</TextureAtlas>

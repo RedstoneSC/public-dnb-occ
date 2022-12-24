@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				160,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				10,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				90,
+				90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-50,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				0,
+				29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/flumbosprites",
+	"position": [
+		80,
+		30
+	],
+	"healthicon": "flumbo",
+	"flip_x": false,
+	"healthbar_colors": [
+		209,
+		255,
+		255
+	],
+	"camera_position": [
+		-220,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

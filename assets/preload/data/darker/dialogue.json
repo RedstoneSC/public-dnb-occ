@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "hi welcome to dark place or smth",
+			"mod": "NONE",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "darkenu"
+		},
+		{
+			"expression": "confused",
+			"text": "why is it dark",
+			"mod": "NONE",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "its dark",
+			"mod": "NONE",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "darkenu"
+		},
+		{
+			"expression": "happy",
+			"text": "oh ok",
+			"mod": "NONE",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "happy",
+			"text": "wanna like",
+			"mod": "NONE",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "happy",
+			"text": "sing it up rn",
+			"mod": "NONE",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "o kl ol",
+			"mod": "NONE",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "darkenu"
+		}
+	]
+}

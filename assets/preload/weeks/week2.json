@@ -1,0 +1,35 @@
+{
+	"songs": [
+		[
+			"Darker",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Shadowed",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "darkenu",
+	"storyName": "darkenu in the void???",
+	"weekBefore": "",
+	"weekName": "Darkenu",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"difficulties": ""
+}

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nightbambg.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bg0000" x="11" y="11" width="2938" height="1595"/>
+	<SubTexture name="bg0001" x="11" y="11" width="2938" height="1595"/>
+	<SubTexture name="bg0002" x="2960" y="11" width="2938" height="1595"/>
+	<SubTexture name="bg0003" x="2960" y="11" width="2938" height="1595"/>
+	<SubTexture name="bg0004" x="11" y="1617" width="2938" height="1595"/>
+	<SubTexture name="bg0005" x="11" y="1617" width="2938" height="1595"/>
+	<SubTexture name="bg0006" x="2960" y="1617" width="2938" height="1595"/>
+	<SubTexture name="bg0007" x="2960" y="1617" width="2938" height="1595"/>
+	<SubTexture name="bg0008" x="11" y="3223" width="2938" height="1595"/>
+	<SubTexture name="bg0009" x="11" y="3223" width="2938" height="1595"/>
+	<SubTexture name="bg0010" x="2960" y="3223" width="2938" height="1595"/>
+	<SubTexture name="bg0011" x="2960" y="3223" width="2938" height="1595"/>
+	<SubTexture name="bg0012" x="11" y="4829" width="2938" height="1595"/>
+	<SubTexture name="bg0013" x="11" y="4829" width="2938" height="1595"/>
+	<SubTexture name="bg0014" x="2960" y="4829" width="2938" height="1595"/>
+	<SubTexture name="bg0015" x="2960" y="4829" width="2938" height="1595"/>
+</TextureAtlas>

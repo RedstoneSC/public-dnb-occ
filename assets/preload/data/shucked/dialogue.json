@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"mod": "NONE",
+			"expression": "happy",
+			"text": "hi bnabi"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "bambi",
+			"boxState": "angry",
+			"mod": "NONE",
+			"expression": "annoyed",
+			"text": "are you on steal my corn again!?!?!?!?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"mod": "NONE",
+			"expression": "confused",
+			"text": "no"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"mod": "NONE",
+			"expression": "happy",
+			"text": "yes"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"mod": "NONE",
+			"expression": "confused",
+			"text": "i mean no"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bambi",
+			"boxState": "normal",
+			"mod": "NONE",
+			"expression": "talk",
+			"text": "sing"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"mod": "NONE",
+			"expression": "happy",
+			"text": "ok"
+		}
+	]
+}

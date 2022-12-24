@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="redBambiDialogue.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="talk loop0000" x="0" y="0" width="244" height="332"/>
+	<SubTexture name="talk loop0001" x="0" y="0" width="244" height="332"/>
+	<SubTexture name="talk loop0002" x="244" y="0" width="244" height="332"/>
+	<SubTexture name="talk loop0003" x="244" y="0" width="244" height="332"/>
+	<SubTexture name="talk loop0004" x="488" y="0" width="244" height="332"/>
+	<SubTexture name="talk loop0005" x="488" y="0" width="244" height="332"/>
+</TextureAtlas>

@@ -1,0 +1,536 @@
+{
+    "song": {
+        "events": [
+            [
+                0.0,
+                [
+                    [
+                        "moveChar",
+                        "beast",
+                        "-20, 230"
+                    ]
+                ]
+            ],
+            [
+                19269.2307692308,
+                [
+                    [
+                        "Play Animation",
+                        "break phone",
+                        "Dad"
+                    ]
+                ]
+            ],
+            [
+                19326.9230769231,
+                [
+                    [
+                        "Play Animation",
+                        "break phone",
+                        "Dad"
+                    ]
+                ]
+            ],
+            [
+                24000,
+                [
+                    [
+                        "Play Animation",
+                        "break phone",
+                        "Dad"
+                    ]
+                ]
+            ],
+            [
+                24057.6923076923,
+                [
+                    [
+                        "Play Animation",
+                        "break phone",
+                        "Dad"
+                    ]
+                ]
+            ],
+            [
+                24115.3846153846,
+                [
+                    [
+                        "Play Animation",
+                        "break phone",
+                        "Dad"
+                    ]
+                ]
+            ],
+            [
+                24173.0769230769,
+                [
+                    [
+                        "Play Animation",
+                        "break phone",
+                        "Dad"
+                    ]
+                ]
+            ],
+            [
+                24461.5384615385,
+                [
+                    [
+                        "Play Animation",
+                        "break phone",
+                        "Dad"
+                    ]
+                ]
+            ],
+            [
+                24519.2307692308,
+                [
+                    [
+                        "Play Animation",
+                        "break phone",
+                        "Dad"
+                    ]
+                ]
+            ],
+            [
+                24576.9230769231,
+                [
+                    [
+                        "Play Animation",
+                        "break phone",
+                        "Dad"
+                    ]
+                ]
+            ],
+            [
+                24634.6153846154,
+                [
+                    [
+                        "Play Animation",
+                        "break phone",
+                        "Dad"
+                    ]
+                ]
+            ],
+            [
+                38769.2307692308,
+                [
+                    [
+                        "Play Animation",
+                        "break phone",
+                        "Dad"
+                    ]
+                ]
+            ],
+            [
+                38884.6153846154,
+                [
+                    [
+                        "Play Animation",
+                        "break phone",
+                        "Dad"
+                    ]
+                ]
+            ],
+            [
+                39230.7692307692,
+                [
+                    [
+                        "Play Animation",
+                        "break phone",
+                        "Dad"
+                    ]
+                ]
+            ],
+            [
+                39288.4615384615,
+                [
+                    [
+                        "Play Animation",
+                        "break phone",
+                        "Dad"
+                    ]
+                ]
+            ],
+            [
+                39346.1538461538,
+                [
+                    [
+                        "Play Animation",
+                        "break phone",
+                        "Dad"
+                    ]
+                ]
+            ],
+            [
+                39403.8461538461,
+                [
+                    [
+                        "Play Animation",
+                        "break phone",
+                        "Dad"
+                    ]
+                ]
+            ],
+            [
+                39923.0769230769,
+                [
+                    [
+                        "Play Animation",
+                        "break phone",
+                        "Dad"
+                    ]
+                ]
+            ],
+            [
+                40384.6153846154,
+                [
+                    [
+                        "Play Animation",
+                        "break phone",
+                        "Dad"
+                    ]
+                ]
+            ],
+            [
+                44307.6923076923,
+                [
+                    [
+                        "Play Animation",
+                        "break phone",
+                        "Dad"
+                    ]
+                ]
+            ],
+            [
+                44423.0769230769,
+                [
+                    [
+                        "Play Animation",
+                        "break phone",
+                        "Dad"
+                    ]
+                ]
+            ],
+            [
+                44538.4615384615,
+                [
+                    [
+                        "Play Animation",
+                        "break phone",
+                        "Dad"
+                    ]
+                ]
+            ],
+            [
+                44653.8461538461,
+                [
+                    [
+                        "Play Animation",
+                        "break phone",
+                        "Dad"
+                    ]
+                ]
+            ],
+            [
+                44769.2307692307,
+                [
+                    [
+                        "Play Animation",
+                        "break phone",
+                        "Dad"
+                    ]
+                ]
+            ],
+            [
+                44884.6153846154,
+                [
+                    [
+                        "Play Animation",
+                        "break phone",
+                        "Dad"
+                    ]
+                ]
+            ],
+            [
+                45000,
+                [
+                    [
+                        "Play Animation",
+                        "break phone",
+                        "Dad"
+                    ]
+                ]
+            ],
+            [
+                45115.3846153846,
+                [
+                    [
+                        "Play Animation",
+                        "break phone",
+                        "Dad"
+                    ]
+                ]
+            ],
+            [
+                45230.7692307692,
+                [
+                    [
+                        "Play Animation",
+                        "break phone",
+                        "Dad"
+                    ]
+                ]
+            ],
+            [
+                45461.5384615384,
+                [
+                    [
+                        "Play Animation",
+                        "break phone",
+                        "Dad"
+                    ]
+                ]
+            ],
+            [
+                45692.3076923077,
+                [
+                    [
+                        "Play Animation",
+                        "break phone",
+                        "Dad"
+                    ]
+                ]
+            ],
+            [
+                45923.0769230769,
+                [
+                    [
+                        "Play Animation",
+                        "break phone",
+                        "Dad"
+                    ]
+                ]
+            ],
+            [
+                46846.1538461538,
+                [
+                    [
+                        "Play Animation",
+                        "break phone",
+                        "Dad"
+                    ]
+                ]
+            ],
+            [
+                80307.6923076922,
+                [
+                    [
+                        "Change Character",
+                        "Dad",
+                        "screwedfnf"
+                    ],
+                    [
+                        "Camera Flash",
+                        "other",
+                        "ffffff,1.3"
+                    ],
+                    [
+                        "moveChar",
+                        "mr",
+                        "20, 200"
+                    ]
+                ]
+            ],
+            [
+                80769.2307692307,
+                [
+                    [
+                        "Play Animation",
+                        "scream",
+                        "Dad"
+                    ]
+                ]
+            ],
+            [
+                97846.1538461538,
+                [
+                    [
+                        "Change Character",
+                        "Dad",
+                        "redbambinew"
+                    ],
+                    [
+                        "Camera Flash",
+                        "other",
+                        "ffffff,1.3"
+                    ],
+                    [
+                        "moveChar",
+                        "beast",
+                        "-20, 230"
+                    ]
+                ]
+            ],
+            [
+                107076.923076923,
+                [
+                    [
+                        "Change Character",
+                        "Dad",
+                        "screwedfnf"
+                    ],
+                    [
+                        "moveChar",
+                        "mr",
+                        "10, 200"
+                    ],
+                    [
+                        "Camera Flash",
+                        "other",
+                        "ffffff,1.3"
+                    ]
+                ]
+            ],
+            [
+                110307.692307692,
+                [
+                    [
+                        "Change Character",
+                        "Dad",
+                        "redbambinew"
+                    ],
+                    [
+                        "Camera Flash",
+                        "other",
+                        "ffffff,1.3"
+                    ],
+                    [
+                        "moveChar",
+                        "beast",
+                        "-20, 230"
+                    ]
+                ]
+            ],
+            [
+                115269.230769231,
+                [
+                    [
+                        "Play Animation",
+                        "break phone",
+                        "Dad"
+                    ]
+                ]
+            ],
+            [
+                115326.923076923,
+                [
+                    [
+                        "Play Animation",
+                        "break phone",
+                        "Dad"
+                    ]
+                ]
+            ],
+            [
+                120000,
+                [
+                    [
+                        "Play Animation",
+                        "break phone",
+                        "Dad"
+                    ]
+                ]
+            ],
+            [
+                120057.692307692,
+                [
+                    [
+                        "Play Animation",
+                        "break phone",
+                        "Dad"
+                    ]
+                ]
+            ],
+            [
+                120115.384615385,
+                [
+                    [
+                        "Play Animation",
+                        "break phone",
+                        "Dad"
+                    ]
+                ]
+            ],
+            [
+                120173.076923077,
+                [
+                    [
+                        "Play Animation",
+                        "break phone",
+                        "Dad"
+                    ]
+                ]
+            ],
+            [
+                120461.538461538,
+                [
+                    [
+                        "Play Animation",
+                        "break phone",
+                        "Dad"
+                    ]
+                ]
+            ],
+            [
+                120519.230769231,
+                [
+                    [
+                        "Play Animation",
+                        "break phone",
+                        "Dad"
+                    ]
+                ]
+            ],
+            [
+                120576.923076923,
+                [
+                    [
+                        "Play Animation",
+                        "break phone",
+                        "Dad"
+                    ]
+                ]
+            ],
+            [
+                120634.615384615,
+                [
+                    [
+                        "Play Animation",
+                        "break phone",
+                        "Dad"
+                    ]
+                ]
+            ],
+            [
+                125538.461538461,
+                [
+                    [
+                        "Camera Flash",
+                        "other",
+                        "ffffff,1.3"
+                    ],
+                    [
+                        "Change Character",
+                        "Dad",
+                        "screwedfnf"
+                    ],
+                    [
+                        "moveChar",
+                        "mr",
+                        "20,200"
+                    ]
+                ]
+            ]
+        ]
+    }
+}

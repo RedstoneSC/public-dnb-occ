@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"expression": "talkingup",
+			"text": "teetettetetete nz fb znq abj",
+			"mod": "NONE",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "cosmic"
+		},
+		{
+			"expression": "confused",
+			"text": "why",
+			"mod": "NONE",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "vqx vgf yvxr gur #1 ehyr sbe sas zbqf yby",
+			"mod": "NONE",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "cosmic"
+		},
+		{
+			"expression": "happy",
+			"text": "oh ok that makes sense",
+			"mod": "NONE",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "fvat",
+			"mod": "NONE",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "cosmic"
+		},
+		{
+			"expression": "confused",
+			"text": "what no thats my line",
+			"mod": "NONE",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "cover",
+			"text": "v jvyy tvir lbh qrrm pnaqvrf",
+			"mod": "NONE",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "cosmic"
+		},
+		{
+			"expression": "happy",
+			"text": "oh ok",
+			"mod": "NONE",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

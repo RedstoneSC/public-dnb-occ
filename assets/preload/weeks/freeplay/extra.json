@@ -1,0 +1,116 @@
+{
+	"songs": [
+		[
+			"Wilderness",
+			"guve",
+			[
+				68,
+				27,
+				0
+			],
+			[
+				"Hard"
+			]
+		],
+		[
+			"Snacker",
+			"bandusnacker",
+			[
+				57,
+				233,
+				32
+			]
+		],
+		[
+			"Poppin",
+			"poppin",
+			[
+				35,
+				215,
+				40
+			]
+		],
+		[
+			"Quingen",
+			"_",
+			[
+				230,
+				224,
+				188
+			],
+			[
+				"$50"
+			]
+		],
+		[
+			"Bambino",
+			"tristanenemy",
+			[
+				255,
+				19,
+				15
+			]
+		],
+		[
+			"Errorless",
+			"expunged",
+			[
+				89,
+				5,
+				6
+			],
+			[
+				" "
+			]
+		],
+		[
+			"Mechanical",
+			"rephonu",
+			[
+				56,
+				75,
+				124
+			],
+			[
+				"Repairs"
+			]
+		],
+		[
+			"Console",
+			"consolebambi",
+			[
+				94,
+				234,
+				84
+			],
+			[
+				"100g"
+			]
+		],
+		[
+			"Magicians-Work",
+			"gerald",
+			[
+				36,
+				42,
+				50
+			],
+			[
+				"Tricks"
+			]
+		]
+	],
+	"weekCharacters": [
+		"senpai",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+	"storyName": "de extra songs lol!!!",
+	"weekBefore": "week1",
+	"weekName": "Extra",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"hideFreeplay": false,
+	"difficulties": "Easy, Normal, Hard"
+}

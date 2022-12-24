@@ -1,0 +1,26 @@
+{
+	"songs": [
+		[
+			"Ultramarathon",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "ph",
+	"storyName": "2 hours.",
+	"weekBefore": "",
+	"weekName": "Ultramarathon",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"difficulties": "Hard"
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "EduardoIdle"
+		},
+		{
+			"offsets": [
+				10,
+				-21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "EduardoDown"
+		},
+		{
+			"offsets": [
+				-20,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "EduardoUp"
+		},
+		{
+			"offsets": [
+				-4,
+				-8
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "EduardoLeft"
+		},
+		{
+			"offsets": [
+				9,
+				-7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "EduardoRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Eduardo",
+	"position": [
+		140,
+		40
+	],
+	"healthicon": "eduardo",
+	"flip_x": false,
+	"healthbar_colors": [
+		17,
+		113,
+		43
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

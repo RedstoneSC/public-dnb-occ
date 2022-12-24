@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"expression": "up",
+			"text": "hey welcome to blue with triangles place or smth",
+			"boxState": "normal",
+			"mod": "NONE",
+			"speed": 0.05,
+			"portrait": "flumbo"
+		},
+		{
+			"expression": "confused",
+			"text": "why is it blue with triangles",
+			"boxState": "normal",
+			"mod": "NONE",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "idle",
+			"text": "its blue with triangles",
+			"boxState": "normal",
+			"mod": "NONE",
+			"speed": 0.05,
+			"portrait": "flumbo"
+		},
+		{
+			"expression": "happy",
+			"text": "oh ok",
+			"boxState": "normal",
+			"mod": "NONE",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "happy",
+			"text": "sing",
+			"boxState": "normal",
+			"mod": "NONE",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "right",
+			"text": "why?",
+			"boxState": "normal",
+			"mod": "NONE",
+			"speed": 0.05,
+			"portrait": "flumbo"
+		},
+		{
+			"expression": "happy",
+			"text": "this is fnf, now sing",
+			"boxState": "normal",
+			"mod": "NONE",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "idle",
+			"text": "ok",
+			"boxState": "normal",
+			"mod": "NONE",
+			"speed": 0.05,
+			"portrait": "flumbo"
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"position": [
+		150,
+		120
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "redBambiDialogue",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "screwed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "talk loop",
+			"idle_name": "talk loop0005"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_ost.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ost basic0000" x="0" y="0" width="251" height="123" frameX="-2" frameY="0" frameWidth="255" frameHeight="123"/>
+	<SubTexture name="ost basic0001" x="0" y="0" width="251" height="123" frameX="-2" frameY="0" frameWidth="255" frameHeight="123"/>
+	<SubTexture name="ost basic0002" x="0" y="0" width="251" height="123" frameX="-2" frameY="0" frameWidth="255" frameHeight="123"/>
+	<SubTexture name="ost basic0003" x="251" y="0" width="252" height="120" frameX="-2" frameY="-2" frameWidth="255" frameHeight="123"/>
+	<SubTexture name="ost basic0004" x="251" y="0" width="252" height="120" frameX="-2" frameY="-2" frameWidth="255" frameHeight="123"/>
+	<SubTexture name="ost basic0005" x="251" y="0" width="252" height="120" frameX="-2" frameY="-2" frameWidth="255" frameHeight="123"/>
+	<SubTexture name="ost basic0006" x="503" y="0" width="255" height="122" frameX="0" frameY="-1" frameWidth="255" frameHeight="123"/>
+	<SubTexture name="ost basic0007" x="503" y="0" width="255" height="122" frameX="0" frameY="-1" frameWidth="255" frameHeight="123"/>
+	<SubTexture name="ost basic0008" x="503" y="0" width="255" height="122" frameX="0" frameY="-1" frameWidth="255" frameHeight="123"/>
+	<SubTexture name="ost white0000" x="0" y="123" width="275" height="139" frameX="-1" frameY="0" frameWidth="282" frameHeight="142"/>
+	<SubTexture name="ost white0001" x="275" y="123" width="280" height="141" frameX="0" frameY="0" frameWidth="282" frameHeight="142"/>
+	<SubTexture name="ost white0002" x="555" y="123" width="279" height="141" frameX="-3" frameY="-1" frameWidth="282" frameHeight="142"/>
+</TextureAtlas>

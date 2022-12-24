@@ -1,0 +1,76 @@
+{
+	"position": [
+		140,
+		70
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "daveDialogue",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "happy",
+			"idle_name": "happy0005"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "ready",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "ready",
+			"idle_name": "ready0005"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "screwed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "screwed",
+			"idle_name": "screwed0005"
+		},
+		{
+			"loop_name": "erm",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "erm0005",
+			"anim": "erm",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "furious",
+			"idle_offsets": [
+				40,
+				12
+			],
+			"idle_name": "furious0005",
+			"anim": "furious",
+			"loop_offsets": [
+				40,
+				12
+			]
+		}
+	]
+}

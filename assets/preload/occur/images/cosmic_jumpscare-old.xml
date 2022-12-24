@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cosmic_jumpscare.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cosmic jumpscare0000" x="0" y="0" width="1920" height="1080"/>
+	<SubTexture name="cosmic jumpscare0001" x="0" y="0" width="1920" height="1080"/>
+	<SubTexture name="cosmic jumpscare0002" x="1920" y="0" width="1920" height="1080"/>
+	<SubTexture name="cosmic jumpscare0003" x="1920" y="0" width="1920" height="1080"/>
+	<SubTexture name="cosmic jumpscare0004" x="3840" y="0" width="1920" height="1080"/>
+	<SubTexture name="cosmic jumpscare0005" x="3840" y="0" width="1920" height="1080"/>
+	<SubTexture name="cosmic jumpscare0006" x="5760" y="0" width="1920" height="1080"/>
+	<SubTexture name="cosmic jumpscare0007" x="5760" y="0" width="1920" height="1080"/>
+	<SubTexture name="cosmic jumpscare0008" x="0" y="1080" width="1920" height="1080"/>
+	<SubTexture name="cosmic jumpscare0009" x="0" y="1080" width="1920" height="1080"/>
+	<SubTexture name="cosmic jumpscare0010" x="1920" y="1080" width="1920" height="1080"/>
+	<SubTexture name="cosmic jumpscare0011" x="1920" y="1080" width="1920" height="1080"/>
+	<SubTexture name="cosmic jumpscare0012" x="3840" y="1080" width="1920" height="1080"/>
+	<SubTexture name="cosmic jumpscare0013" x="3840" y="1080" width="1920" height="1080"/>
+	<SubTexture name="cosmic jumpscare0014" x="5760" y="1080" width="1920" height="1080"/>
+	<SubTexture name="cosmic jumpscare0015" x="5760" y="1080" width="1920" height="1080"/>
+	<SubTexture name="cosmic jumpscare0016" x="0" y="2160" width="1920" height="1080"/>
+	<SubTexture name="cosmic jumpscare0017" x="0" y="2160" width="1920" height="1080"/>
+	<SubTexture name="cosmic jumpscare0018" x="1920" y="2160" width="1920" height="1080"/>
+	<SubTexture name="cosmic jumpscare0019" x="1920" y="2160" width="1920" height="1080"/>
+	<SubTexture name="cosmic jumpscare0020" x="3840" y="2160" width="1920" height="1080"/>
+	<SubTexture name="cosmic jumpscare0021" x="3840" y="2160" width="1920" height="1080"/>
+	<SubTexture name="cosmic jumpscare0022" x="5760" y="2160" width="1920" height="1080"/>
+	<SubTexture name="cosmic jumpscare0023" x="5760" y="2160" width="1920" height="1080"/>
+</TextureAtlas>

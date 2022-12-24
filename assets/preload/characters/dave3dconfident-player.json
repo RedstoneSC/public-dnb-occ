@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "dave3d-confident idle"
+		},
+		{
+			"offsets": [
+				0,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "dave3d-confident down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "dave3d-confident up"
+		},
+		{
+			"offsets": [
+				-49,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "dave3d-confident right"
+		},
+		{
+			"offsets": [
+				-18,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "dave3d-confident left"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/dave3d-confident",
+	"position": [
+		-400,
+		50
+	],
+	"healthicon": "dave3dconfident",
+	"flip_x": false,
+	"healthbar_colors": [
+		248,
+		166,
+		165
+	],
+	"camera_position": [
+		320,
+		-50
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1.2
+}

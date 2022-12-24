@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fitnesstestachievement.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fitnesstest0000" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0001" x="1280" y="0" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0002" x="2560" y="0" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0003" x="3840" y="0" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0004" x="3840" y="0" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0005" x="5120" y="0" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0006" x="5120" y="0" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0007" x="6400" y="0" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0008" x="6400" y="0" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0009" x="6400" y="0" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0010" x="6400" y="0" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0011" x="6400" y="0" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0012" x="6400" y="0" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0013" x="6400" y="0" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0014" x="6400" y="0" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0015" x="6400" y="0" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0016" x="6400" y="0" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0017" x="6400" y="0" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0018" x="0" y="720" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0019" x="1280" y="720" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0020" x="2560" y="720" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0021" x="3840" y="720" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0022" x="5120" y="720" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0023" x="6400" y="720" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0024" x="0" y="1440" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0025" x="1280" y="1440" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0026" x="2560" y="1440" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0027" x="3840" y="1440" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0028" x="5120" y="1440" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0029" x="6400" y="1440" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0030" x="0" y="2160" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0031" x="1280" y="2160" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0032" x="2560" y="2160" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0033" x="3840" y="2160" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0034" x="5120" y="2160" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0035" x="5120" y="2160" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0036" x="5120" y="2160" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0037" x="5120" y="2160" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0038" x="5120" y="2160" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0039" x="5120" y="2160" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0040" x="5120" y="2160" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0041" x="5120" y="2160" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0042" x="5120" y="2160" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0043" x="5120" y="2160" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0044" x="5120" y="2160" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0045" x="5120" y="2160" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0046" x="5120" y="2160" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0047" x="5120" y="2160" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0048" x="5120" y="2160" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0049" x="5120" y="2160" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0050" x="5120" y="2160" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0051" x="5120" y="2160" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0052" x="6400" y="2160" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0053" x="6400" y="2160" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0054" x="0" y="2880" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0055" x="0" y="2880" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0056" x="1280" y="2880" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0057" x="2560" y="2880" width="1280" height="720"/>
+	<SubTexture name="fitnesstest0058" x="3840" y="2880" width="1280" height="720"/>
+</TextureAtlas>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="daveDialogue.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="erm0000" x="0" y="0" width="329" height="576"/>
+	<SubTexture name="erm0001" x="0" y="0" width="329" height="576"/>
+	<SubTexture name="erm0002" x="329" y="0" width="329" height="576"/>
+	<SubTexture name="erm0003" x="329" y="0" width="329" height="576"/>
+	<SubTexture name="erm0004" x="658" y="0" width="329" height="576"/>
+	<SubTexture name="erm0005" x="658" y="0" width="329" height="576"/>
+	<SubTexture name="furious0000" x="987" y="0" width="366" height="583"/>
+	<SubTexture name="furious0001" x="987" y="0" width="366" height="583"/>
+	<SubTexture name="furious0002" x="1353" y="0" width="366" height="583"/>
+	<SubTexture name="furious0003" x="1353" y="0" width="366" height="583"/>
+	<SubTexture name="furious0004" x="0" y="583" width="366" height="583"/>
+	<SubTexture name="furious0005" x="0" y="583" width="366" height="583"/>
+	<SubTexture name="happy0000" x="366" y="583" width="329" height="576"/>
+	<SubTexture name="happy0001" x="366" y="583" width="329" height="576"/>
+	<SubTexture name="happy0002" x="695" y="583" width="329" height="576"/>
+	<SubTexture name="happy0003" x="695" y="583" width="329" height="576"/>
+	<SubTexture name="happy0004" x="1024" y="583" width="329" height="576"/>
+	<SubTexture name="happy0005" x="1024" y="583" width="329" height="576"/>
+	<SubTexture name="ready0000" x="1353" y="583" width="329" height="576"/>
+	<SubTexture name="ready0001" x="1353" y="583" width="329" height="576"/>
+	<SubTexture name="ready0002" x="1682" y="583" width="329" height="576"/>
+	<SubTexture name="ready0003" x="1682" y="583" width="329" height="576"/>
+	<SubTexture name="ready0004" x="0" y="1166" width="329" height="576"/>
+	<SubTexture name="ready0005" x="0" y="1166" width="329" height="576"/>
+	<SubTexture name="screwed0000" x="329" y="1166" width="329" height="576"/>
+	<SubTexture name="screwed0001" x="329" y="1166" width="329" height="576"/>
+	<SubTexture name="screwed0002" x="658" y="1166" width="329" height="576"/>
+	<SubTexture name="screwed0003" x="658" y="1166" width="329" height="576"/>
+	<SubTexture name="screwed0004" x="987" y="1166" width="329" height="576"/>
+	<SubTexture name="screwed0005" x="987" y="1166" width="329" height="576"/>
+</TextureAtlas>

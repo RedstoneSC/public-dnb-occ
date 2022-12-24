@@ -1,0 +1,89 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "center",
+	"scale": 1.25,
+	"image": "gfDialogue",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "talk loop confused",
+			"idle_name": "talk loop confused0005"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "talk loop happy",
+			"idle_name": "talk loop happy0005"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "sad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "talk loop sad",
+			"idle_name": "talk loop sad0005"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "screwed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "talk loop screwed",
+			"idle_name": "talk loop screwed0005"
+		},
+		{
+			"loop_name": "talk loop cheer",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "talk loop cheer0005",
+			"anim": "cheer",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "talk loop what",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "talk loop what0005",
+			"anim": "what",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

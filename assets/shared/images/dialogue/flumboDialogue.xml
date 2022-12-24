@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="flumboDialogue.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle lop0000" x="0" y="0" width="711" height="899"/>
+	<SubTexture name="idle lop0001" x="0" y="0" width="711" height="899"/>
+	<SubTexture name="idle lop0002" x="711" y="0" width="711" height="899"/>
+	<SubTexture name="idle lop0003" x="711" y="0" width="711" height="899"/>
+	<SubTexture name="idle lop0004" x="1422" y="0" width="711" height="899"/>
+	<SubTexture name="idle lop0005" x="1422" y="0" width="711" height="899"/>
+	<SubTexture name="idle lop0006" x="2133" y="0" width="711" height="899"/>
+	<SubTexture name="idle lop0007" x="2133" y="0" width="711" height="899"/>
+	<SubTexture name="idle lop0008" x="2844" y="0" width="711" height="899"/>
+	<SubTexture name="idle lop0009" x="2844" y="0" width="711" height="899"/>
+	<SubTexture name="idle lop0010" x="0" y="899" width="711" height="899"/>
+	<SubTexture name="idle lop0011" x="0" y="899" width="711" height="899"/>
+	<SubTexture name="idle lop0012" x="711" y="899" width="711" height="899"/>
+	<SubTexture name="idle lop0013" x="711" y="899" width="711" height="899"/>
+	<SubTexture name="right l0000" x="1422" y="899" width="723" height="891"/>
+	<SubTexture name="right l0001" x="1422" y="899" width="723" height="891"/>
+	<SubTexture name="right l0002" x="2145" y="899" width="723" height="891"/>
+	<SubTexture name="right l0003" x="2145" y="899" width="723" height="891"/>
+	<SubTexture name="right l0004" x="2868" y="899" width="723" height="891"/>
+	<SubTexture name="right l0005" x="2868" y="899" width="723" height="891"/>
+	<SubTexture name="up lp0000" x="0" y="1798" width="711" height="855"/>
+	<SubTexture name="up lp0001" x="0" y="1798" width="711" height="855"/>
+	<SubTexture name="up lp0002" x="711" y="1798" width="711" height="855"/>
+	<SubTexture name="up lp0003" x="711" y="1798" width="711" height="855"/>
+	<SubTexture name="up lp0004" x="1422" y="1798" width="711" height="855"/>
+	<SubTexture name="up lp0005" x="1422" y="1798" width="711" height="855"/>
+</TextureAtlas>

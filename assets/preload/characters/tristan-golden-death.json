@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "BF dies"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "BF Dead Loop"
+		},
+		{
+			"offsets": [
+				1,
+				35
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "BF Dead confirm"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tristan_golden_death",
+	"position": [
+		-50,
+		310
+	],
+	"healthicon": "tristangold",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		204,
+		0
+	],
+	"camera_position": [
+		140,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

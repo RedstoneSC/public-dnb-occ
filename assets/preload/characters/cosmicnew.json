@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "cosmicnew idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				30
+			],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "cosmicnew left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				-80
+			],
+			"anim": "singDOWN",
+			"fps": 29,
+			"name": "cosmicnew down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				90
+			],
+			"anim": "singUP",
+			"fps": 30,
+			"name": "cosmicnew up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-110,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "cosmicnew right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/cosmicnew",
+	"position": [
+		-650,
+		-200
+	],
+	"healthicon": "cosmicnew",
+	"flip_x": false,
+	"healthbar_colors": [
+		190,
+		79,
+		66
+	],
+	"camera_position": [
+		210,
+		50
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 0.9
+}

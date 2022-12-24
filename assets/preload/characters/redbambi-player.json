@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-25
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-49,
+				43
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				84,
+				82
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "break phone",
+			"loop": false,
+			"name": "break phone"
+		},
+		{
+			"offsets": [
+				103,
+				3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-20,
+				-9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/redbamber_NEWEST",
+	"position": [
+		140,
+		310
+	],
+	"healthicon": "redbambinew",
+	"flip_x": false,
+	"healthbar_colors": [
+		228,
+		0,
+		60
+	],
+	"camera_position": [
+		220,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

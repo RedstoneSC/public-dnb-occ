@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="soapcatachievement.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="soapcat0000" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="soapcat0001" x="1280" y="0" width="1280" height="720"/>
+	<SubTexture name="soapcat0002" x="2560" y="0" width="1280" height="720"/>
+	<SubTexture name="soapcat0003" x="3840" y="0" width="1280" height="720"/>
+	<SubTexture name="soapcat0004" x="3840" y="0" width="1280" height="720"/>
+	<SubTexture name="soapcat0005" x="5120" y="0" width="1280" height="720"/>
+	<SubTexture name="soapcat0006" x="5120" y="0" width="1280" height="720"/>
+	<SubTexture name="soapcat0007" x="5120" y="0" width="1280" height="720"/>
+	<SubTexture name="soapcat0008" x="5120" y="0" width="1280" height="720"/>
+	<SubTexture name="soapcat0009" x="5120" y="0" width="1280" height="720"/>
+	<SubTexture name="soapcat0010" x="5120" y="0" width="1280" height="720"/>
+	<SubTexture name="soapcat0011" x="5120" y="0" width="1280" height="720"/>
+	<SubTexture name="soapcat0012" x="5120" y="0" width="1280" height="720"/>
+	<SubTexture name="soapcat0013" x="5120" y="0" width="1280" height="720"/>
+	<SubTexture name="soapcat0014" x="5120" y="0" width="1280" height="720"/>
+	<SubTexture name="soapcat0015" x="5120" y="0" width="1280" height="720"/>
+	<SubTexture name="soapcat0016" x="5120" y="0" width="1280" height="720"/>
+	<SubTexture name="soapcat0017" x="5120" y="0" width="1280" height="720"/>
+	<SubTexture name="soapcat0018" x="6400" y="0" width="1280" height="720"/>
+	<SubTexture name="soapcat0019" x="0" y="720" width="1280" height="720"/>
+	<SubTexture name="soapcat0020" x="1280" y="720" width="1280" height="720"/>
+	<SubTexture name="soapcat0021" x="2560" y="720" width="1280" height="720"/>
+	<SubTexture name="soapcat0022" x="3840" y="720" width="1280" height="720"/>
+	<SubTexture name="soapcat0023" x="5120" y="720" width="1280" height="720"/>
+	<SubTexture name="soapcat0024" x="6400" y="720" width="1280" height="720"/>
+	<SubTexture name="soapcat0025" x="0" y="1440" width="1280" height="720"/>
+	<SubTexture name="soapcat0026" x="1280" y="1440" width="1280" height="720"/>
+	<SubTexture name="soapcat0027" x="2560" y="1440" width="1280" height="720"/>
+	<SubTexture name="soapcat0028" x="3840" y="1440" width="1280" height="720"/>
+	<SubTexture name="soapcat0029" x="5120" y="1440" width="1280" height="720"/>
+	<SubTexture name="soapcat0030" x="6400" y="1440" width="1280" height="720"/>
+	<SubTexture name="soapcat0031" x="0" y="2160" width="1280" height="720"/>
+	<SubTexture name="soapcat0032" x="1280" y="2160" width="1280" height="720"/>
+	<SubTexture name="soapcat0033" x="2560" y="2160" width="1280" height="720"/>
+	<SubTexture name="soapcat0034" x="3840" y="2160" width="1280" height="720"/>
+	<SubTexture name="soapcat0035" x="3840" y="2160" width="1280" height="720"/>
+	<SubTexture name="soapcat0036" x="3840" y="2160" width="1280" height="720"/>
+	<SubTexture name="soapcat0037" x="3840" y="2160" width="1280" height="720"/>
+	<SubTexture name="soapcat0038" x="3840" y="2160" width="1280" height="720"/>
+	<SubTexture name="soapcat0039" x="3840" y="2160" width="1280" height="720"/>
+	<SubTexture name="soapcat0040" x="3840" y="2160" width="1280" height="720"/>
+	<SubTexture name="soapcat0041" x="3840" y="2160" width="1280" height="720"/>
+	<SubTexture name="soapcat0042" x="3840" y="2160" width="1280" height="720"/>
+	<SubTexture name="soapcat0043" x="3840" y="2160" width="1280" height="720"/>
+	<SubTexture name="soapcat0044" x="3840" y="2160" width="1280" height="720"/>
+	<SubTexture name="soapcat0045" x="3840" y="2160" width="1280" height="720"/>
+	<SubTexture name="soapcat0046" x="3840" y="2160" width="1280" height="720"/>
+	<SubTexture name="soapcat0047" x="3840" y="2160" width="1280" height="720"/>
+	<SubTexture name="soapcat0048" x="3840" y="2160" width="1280" height="720"/>
+	<SubTexture name="soapcat0049" x="3840" y="2160" width="1280" height="720"/>
+	<SubTexture name="soapcat0050" x="3840" y="2160" width="1280" height="720"/>
+	<SubTexture name="soapcat0051" x="3840" y="2160" width="1280" height="720"/>
+	<SubTexture name="soapcat0052" x="5120" y="2160" width="1280" height="720"/>
+	<SubTexture name="soapcat0053" x="5120" y="2160" width="1280" height="720"/>
+	<SubTexture name="soapcat0054" x="6400" y="2160" width="1280" height="720"/>
+	<SubTexture name="soapcat0055" x="6400" y="2160" width="1280" height="720"/>
+	<SubTexture name="soapcat0056" x="0" y="2880" width="1280" height="720"/>
+	<SubTexture name="soapcat0057" x="1280" y="2880" width="1280" height="720"/>
+	<SubTexture name="soapcat0058" x="2560" y="2880" width="1280" height="720"/>
+</TextureAtlas>

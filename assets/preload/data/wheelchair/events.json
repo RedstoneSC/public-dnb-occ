@@ -1,0 +1,296 @@
+{
+	"song": {
+		"events": [
+			[
+				60000,
+				[
+					[
+						"Play Animation",
+						"greatJob",
+						"dad"
+					]
+				]
+			],
+			[
+				93333.3333333333,
+				[
+					[
+						"Change Character",
+						"alt",
+						"bambifnf"
+					],
+					[
+						"Change Character",
+						"dad",
+						"daveanger"
+					]
+				]
+			],
+			[
+				102333.333333333,
+				[
+					[
+						"Play Animation",
+						"whereDid",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"whyYou",
+						"alt"
+					]
+				]
+			],
+			[
+				126333.333333333,
+				[
+					[
+						"Play Animation",
+						"break phone",
+						"alt"
+					]
+				]
+			],
+			[
+				126427.083333333,
+				[
+					[
+						"Play Animation",
+						"break phone",
+						"alt"
+					]
+				]
+			],
+			[
+				126520.833333333,
+				[
+					[
+						"Play Animation",
+						"break phone",
+						"alt"
+					]
+				]
+			],
+			[
+				127458.333333333,
+				[
+					[
+						"Play Animation",
+						"break phone",
+						"alt"
+					]
+				]
+			],
+			[
+				127552.083333333,
+				[
+					[
+						"Play Animation",
+						"break phone",
+						"alt"
+					]
+				]
+			],
+			[
+				127645.833333333,
+				[
+					[
+						"Play Animation",
+						"break phone",
+						"alt"
+					]
+				]
+			],
+			[
+				127739.583333333,
+				[
+					[
+						"Play Animation",
+						"break phone",
+						"alt"
+					]
+				]
+			],
+			[
+				145833.333333333,
+				[
+					[
+						"Play Animation",
+						"break phone",
+						"alt"
+					]
+				]
+			],
+			[
+				145927.083333333,
+				[
+					[
+						"Play Animation",
+						"break phone",
+						"alt"
+					]
+				]
+			],
+			[
+				146020.833333333,
+				[
+					[
+						"Play Animation",
+						"break phone",
+						"alt"
+					]
+				]
+			],
+			[
+				146114.583333333,
+				[
+					[
+						"Play Animation",
+						"break phone",
+						"alt"
+					]
+				]
+			],
+			[
+				146208.333333333,
+				[
+					[
+						"Play Animation",
+						"break phone",
+						"alt"
+					]
+				]
+			],
+			[
+				146395.833333333,
+				[
+					[
+						"Play Animation",
+						"break phone",
+						"alt"
+					]
+				]
+			],
+			[
+				146583.333333333,
+				[
+					[
+						"Play Animation",
+						"break phone",
+						"alt"
+					]
+				]
+			],
+			[
+				146770.833333333,
+				[
+					[
+						"Play Animation",
+						"break phone",
+						"alt"
+					]
+				]
+			],
+			[
+				156333.333333333,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"alt"
+					]
+				]
+			],
+			[
+				164500,
+				[
+					[
+						"Play Animation",
+						"break phone",
+						"alt"
+					]
+				]
+			],
+			[
+				164583.333333333,
+				[
+					[
+						"Play Animation",
+						"break phone",
+						"alt"
+					]
+				]
+			],
+			[
+				164666.666666667,
+				[
+					[
+						"Play Animation",
+						"break phone",
+						"alt"
+					]
+				]
+			],
+			[
+				164750,
+				[
+					[
+						"Play Animation",
+						"break phone",
+						"alt"
+					]
+				]
+			],
+			[
+				164833.333333333,
+				[
+					[
+						"Play Animation",
+						"break phone",
+						"alt"
+					]
+				]
+			],
+			[
+				165000,
+				[
+					[
+						"Play Animation",
+						"break phone",
+						"alt"
+					]
+				]
+			],
+			[
+				165166.666666667,
+				[
+					[
+						"Play Animation",
+						"break phone",
+						"alt"
+					]
+				]
+			],
+			[
+				165333.333333333,
+				[
+					[
+						"Play Animation",
+						"break phone",
+						"alt"
+					]
+				]
+			],
+			[
+				93333.3333333333,
+				[
+					[
+						"Camera Flash",
+						"other",
+						"ffffff,1.15"
+					]
+				]
+			]
+		]
+	}
+}

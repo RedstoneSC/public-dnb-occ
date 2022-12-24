@@ -1,0 +1,113 @@
+{
+    "songs": [
+        [
+            "Real-Corn",
+            "bambireal",
+            [
+                0,
+                255,
+                0
+            ],
+            [
+                "Phone"
+            ]
+        ],
+        [
+            "Phones",
+            "bambibutawesomenew",
+            [
+                0,
+                204,
+                51
+            ],
+            [
+                "Hard"
+            ]
+        ],
+        [
+            "Budget-Quingen",
+            "moneymbi",
+            [
+                181,
+                230,
+                29
+            ],
+            [
+                "£10"
+            ]
+        ],
+        [
+            "Pebble",
+            "pimbog",
+            [
+                184,
+                200,
+                233
+            ],
+            [
+                "glober"
+            ]
+        ],
+        [
+            "Heheheha",
+            "clashroyale",
+            [
+                239,
+                246,
+                247
+            ],
+            [
+                "Grr"
+            ]
+        ],
+        [
+            "Alien-Language",
+            "aliendzub",
+            [
+                197,
+                209,
+                64
+            ],
+            [
+                "... ..- ..."
+            ]
+        ],
+        [
+            "That-guy",
+            "cloneheroguy",
+            [
+                181,
+                133,
+                80
+            ],
+            [
+                "hilancey"
+            ]
+        ],
+        [
+            "Brick",
+            "brick",
+            [
+                175,
+                175,
+                175
+            ],
+            [
+                "Brick"
+            ]
+        ]
+    ],
+    "weekCharacters": [
+        "joe",
+        "mama",
+        "fat"
+    ],
+    "weekBackground": "amogus",
+    "storyName": "sussyBalls",
+    "weekBefore": "Extra",
+    "weekName": "Joke",
+    "startUnlocked": true,
+    "hideStoryMode": true,
+    "hideFreeplay": false,
+    "difficulties": "Easy, Normal, Hard"
+}

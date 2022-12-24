@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="flumboTriangle.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+        <!-- if you read this you are a cool person -->
+	<SubTexture name="speen0000" x="0" y="0" width="434" height="589"/>
+	<SubTexture name="speen0001" x="0" y="0" width="434" height="589"/>
+	<SubTexture name="speen0002" x="434" y="0" width="434" height="589"/>
+	<SubTexture name="speen0003" x="434" y="0" width="434" height="589"/>
+	<SubTexture name="speen0004" x="868" y="0" width="434" height="589"/>
+	<SubTexture name="speen0005" x="868" y="0" width="434" height="589"/>
+	<SubTexture name="speen0006" x="1302" y="0" width="434" height="589"/>
+	<SubTexture name="speen0007" x="1302" y="0" width="434" height="589"/>
+</TextureAtlas>

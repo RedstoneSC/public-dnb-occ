@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		60,
+		120
+	],
+	"scale": 1.65,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "still",
+			"idle_name": "still"
+		}
+	],
+	"image": "redactedpicture"
+}

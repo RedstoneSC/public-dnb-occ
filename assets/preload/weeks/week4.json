@@ -1,0 +1,35 @@
+{
+	"songs": [
+		[
+			"Phase",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Demise",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "cosmic",
+	"storyName": "comsic :thumbsup:",
+	"weekBefore": "",
+	"weekName": "Cosmic",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"difficulties": "Mania, Hard"
+}

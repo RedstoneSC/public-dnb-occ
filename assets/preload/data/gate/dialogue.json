@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "happy",
+			"text": "hi",
+			"boxState": "normal",
+			"mod": "NONE",
+			"speed": 0.05,
+			"portrait": "dave"
+		},
+		{
+			"expression": "happy",
+			"text": "hi",
+			"boxState": "normal",
+			"mod": "NONE",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "happy",
+			"text": "why are you here",
+			"boxState": "normal",
+			"mod": "NONE",
+			"speed": 0.05,
+			"portrait": "dave"
+		},
+		{
+			"expression": "confused",
+			"text": "uhhhhh",
+			"boxState": "normal",
+			"mod": "NONE",
+			"speed": 0.1,
+			"portrait": "bf"
+		},
+		{
+			"expression": "happy",
+			"text": "oh ok",
+			"boxState": "normal",
+			"mod": "NONE",
+			"speed": 0.05,
+			"portrait": "dave"
+		},
+		{
+			"expression": "happy",
+			"text": "wanna have like another sing off lol",
+			"boxState": "normal",
+			"mod": "NONE",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "happy",
+			"text": "ok",
+			"boxState": "normal",
+			"mod": "NONE",
+			"speed": 0.05,
+			"portrait": "dave"
+		}
+	]
+}

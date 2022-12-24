@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="2dnotes.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue hold end instance 10000" x="0" y="0" width="51" height="64"/>
+	<SubTexture name="blue hold piece instance 10000" x="51" y="0" width="51" height="44"/>
+	<SubTexture name="blue instance 10000" x="102" y="0" width="157" height="153"/>
+	<SubTexture name="green hold end instance 10000" x="260" y="0" width="51" height="64"/>
+	<SubTexture name="green hold piece instance 10000" x="311" y="0" width="51" height="44"/>
+	<SubTexture name="green instance 10000" x="0" y="154" width="157" height="154"/>
+	<SubTexture name="purple hold end instance 10000" x="157" y="154" width="51" height="64"/>
+	<SubTexture name="purple hold piece instance 10000" x="208" y="154" width="51" height="44"/>
+	<SubTexture name="purple instance 10000" x="259" y="154" width="154" height="157"/>
+	<SubTexture name="red hold end instance 10000" x="413" y="154" width="51" height="64"/>
+	<SubTexture name="red hold piece instance 10000" x="0" y="311" width="51" height="44"/>
+	<SubTexture name="red instance 10000" x="51" y="311" width="154" height="157"/>
+</TextureAtlas>

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="amogusachievement.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="amogus0000" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="amogus0001" x="1280" y="0" width="1280" height="720"/>
+	<SubTexture name="amogus0002" x="2560" y="0" width="1280" height="720"/>
+	<SubTexture name="amogus0003" x="3840" y="0" width="1280" height="720"/>
+	<SubTexture name="amogus0004" x="3840" y="0" width="1280" height="720"/>
+	<SubTexture name="amogus0005" x="5120" y="0" width="1280" height="720"/>
+	<SubTexture name="amogus0006" x="5120" y="0" width="1280" height="720"/>
+	<SubTexture name="amogus0007" x="6400" y="0" width="1280" height="720"/>
+	<SubTexture name="amogus0008" x="6400" y="0" width="1280" height="720"/>
+	<SubTexture name="amogus0009" x="6400" y="0" width="1280" height="720"/>
+	<SubTexture name="amogus0010" x="6400" y="0" width="1280" height="720"/>
+	<SubTexture name="amogus0011" x="6400" y="0" width="1280" height="720"/>
+	<SubTexture name="amogus0012" x="6400" y="0" width="1280" height="720"/>
+	<SubTexture name="amogus0013" x="6400" y="0" width="1280" height="720"/>
+	<SubTexture name="amogus0014" x="6400" y="0" width="1280" height="720"/>
+	<SubTexture name="amogus0015" x="6400" y="0" width="1280" height="720"/>
+	<SubTexture name="amogus0016" x="6400" y="0" width="1280" height="720"/>
+	<SubTexture name="amogus0017" x="6400" y="0" width="1280" height="720"/>
+	<SubTexture name="amogus0018" x="0" y="720" width="1280" height="720"/>
+	<SubTexture name="amogus0019" x="1280" y="720" width="1280" height="720"/>
+	<SubTexture name="amogus0020" x="2560" y="720" width="1280" height="720"/>
+	<SubTexture name="amogus0021" x="3840" y="720" width="1280" height="720"/>
+	<SubTexture name="amogus0022" x="5120" y="720" width="1280" height="720"/>
+	<SubTexture name="amogus0023" x="6400" y="720" width="1280" height="720"/>
+	<SubTexture name="amogus0024" x="0" y="1440" width="1280" height="720"/>
+	<SubTexture name="amogus0025" x="1280" y="1440" width="1280" height="720"/>
+	<SubTexture name="amogus0026" x="2560" y="1440" width="1280" height="720"/>
+	<SubTexture name="amogus0027" x="3840" y="1440" width="1280" height="720"/>
+	<SubTexture name="amogus0028" x="5120" y="1440" width="1280" height="720"/>
+	<SubTexture name="amogus0029" x="6400" y="1440" width="1280" height="720"/>
+	<SubTexture name="amogus0030" x="0" y="2160" width="1280" height="720"/>
+	<SubTexture name="amogus0031" x="1280" y="2160" width="1280" height="720"/>
+	<SubTexture name="amogus0032" x="2560" y="2160" width="1280" height="720"/>
+	<SubTexture name="amogus0033" x="3840" y="2160" width="1280" height="720"/>
+	<SubTexture name="amogus0034" x="5120" y="2160" width="1280" height="720"/>
+	<SubTexture name="amogus0035" x="6400" y="2160" width="1280" height="720"/>
+	<SubTexture name="amogus0036" x="6400" y="2160" width="1280" height="720"/>
+	<SubTexture name="amogus0037" x="6400" y="2160" width="1280" height="720"/>
+	<SubTexture name="amogus0038" x="6400" y="2160" width="1280" height="720"/>
+	<SubTexture name="amogus0039" x="6400" y="2160" width="1280" height="720"/>
+	<SubTexture name="amogus0040" x="6400" y="2160" width="1280" height="720"/>
+	<SubTexture name="amogus0041" x="6400" y="2160" width="1280" height="720"/>
+	<SubTexture name="amogus0042" x="6400" y="2160" width="1280" height="720"/>
+	<SubTexture name="amogus0043" x="6400" y="2160" width="1280" height="720"/>
+	<SubTexture name="amogus0044" x="6400" y="2160" width="1280" height="720"/>
+	<SubTexture name="amogus0045" x="6400" y="2160" width="1280" height="720"/>
+	<SubTexture name="amogus0046" x="6400" y="2160" width="1280" height="720"/>
+	<SubTexture name="amogus0047" x="6400" y="2160" width="1280" height="720"/>
+	<SubTexture name="amogus0048" x="6400" y="2160" width="1280" height="720"/>
+	<SubTexture name="amogus0049" x="6400" y="2160" width="1280" height="720"/>
+	<SubTexture name="amogus0050" x="6400" y="2160" width="1280" height="720"/>
+	<SubTexture name="amogus0051" x="6400" y="2160" width="1280" height="720"/>
+	<SubTexture name="amogus0052" x="0" y="2880" width="1280" height="720"/>
+	<SubTexture name="amogus0053" x="0" y="2880" width="1280" height="720"/>
+	<SubTexture name="amogus0054" x="1280" y="2880" width="1280" height="720"/>
+	<SubTexture name="amogus0055" x="1280" y="2880" width="1280" height="720"/>
+	<SubTexture name="amogus0056" x="2560" y="2880" width="1280" height="720"/>
+	<SubTexture name="amogus0057" x="3840" y="2880" width="1280" height="720"/>
+	<SubTexture name="amogus0058" x="5120" y="2880" width="1280" height="720"/>
+</TextureAtlas>

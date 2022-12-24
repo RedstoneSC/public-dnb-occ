@@ -1,0 +1,113 @@
+{
+    "songs": [
+        [
+            "Short-stalk-old",
+            "bambi",
+            [
+                12,
+                181,
+                0
+            ]
+        ],
+        [
+            "Snacker-old",
+            "bandusnacker",
+            [
+                57,
+                233,
+                32
+            ]
+        ],
+        [
+            "Snacker-older",
+            "bandusnackerold",
+            [
+                67,
+                254,
+                35
+            ]
+        ],
+        [
+            "Poppin-old",
+            "poppin",
+            [
+                35,
+                215,
+                40
+            ]
+        ],
+        [
+            "Poppin-older",
+            "bandupoppin",
+            [
+                51,
+                127,
+                51
+            ]
+        ],
+        [
+            "Poppin-oldest",
+            "bandupoppinold",
+            [
+                51,
+                127,
+                51
+            ]
+        ],
+        [
+            "Phones-old",
+            "bambibutawesome",
+            [
+                0,
+                255,
+                0
+            ]
+        ],
+        [
+            "Snacker-Eduardo-Old",
+            "eduardo",
+            [
+                17,
+                113,
+                43
+            ],
+            [
+                "Well"
+            ]
+        ],
+        [
+            "Snacker-Eduardo-Older",
+            "eduardo",
+            [
+                17,
+                113,
+                43
+            ],
+            [
+                "Well"
+            ]
+        ],
+        [
+            "Cubic-old",
+            "3ddave",
+            [
+                173,
+                131,
+                131
+            ]
+        ]
+    ],
+    "weekCharacters": [
+        "this",
+        "is",
+        "pain"
+    ],
+    "weekBackground": "amog",
+    "storyName": "its pain to do this but its ok",
+    "weekBefore": "Secret",
+    "weekName": "OG",
+    "startUnlocked": true,
+    "hideStoryMode": true,
+    "hideFreeplay": false,
+    "difficulties": "Easy, Normal, Hard"
+}

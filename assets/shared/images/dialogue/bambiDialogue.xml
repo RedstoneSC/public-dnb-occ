@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bambiDialogue.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="talk loop annoyed0000" x="0" y="0" width="244" height="332"/>
+	<SubTexture name="talk loop annoyed0001" x="0" y="0" width="244" height="332"/>
+	<SubTexture name="talk loop annoyed0002" x="244" y="0" width="244" height="332"/>
+	<SubTexture name="talk loop annoyed0003" x="244" y="0" width="244" height="332"/>
+	<SubTexture name="talk loop annoyed0004" x="488" y="0" width="244" height="332"/>
+	<SubTexture name="talk loop annoyed0005" x="488" y="0" width="244" height="332"/>
+	<SubTexture name="talk loop normal0000" x="732" y="0" width="244" height="332"/>
+	<SubTexture name="talk loop normal0001" x="732" y="0" width="244" height="332"/>
+	<SubTexture name="talk loop normal0002" x="0" y="332" width="244" height="332"/>
+	<SubTexture name="talk loop normal0003" x="0" y="332" width="244" height="332"/>
+	<SubTexture name="talk loop normal0004" x="244" y="332" width="244" height="332"/>
+	<SubTexture name="talk loop normal0005" x="244" y="332" width="244" height="332"/>
+	<SubTexture name="talk loop screwed0000" x="488" y="332" width="244" height="332"/>
+	<SubTexture name="talk loop screwed0001" x="488" y="332" width="244" height="332"/>
+	<SubTexture name="talk loop screwed0002" x="732" y="332" width="244" height="332"/>
+	<SubTexture name="talk loop screwed0003" x="732" y="332" width="244" height="332"/>
+	<SubTexture name="talk loop screwed0004" x="0" y="664" width="244" height="332"/>
+	<SubTexture name="talk loop screwed0005" x="0" y="664" width="244" height="332"/>
+	<SubTexture name="talk loop upset0000" x="244" y="664" width="244" height="332"/>
+	<SubTexture name="talk loop upset0001" x="244" y="664" width="244" height="332"/>
+	<SubTexture name="talk loop upset0002" x="488" y="664" width="244" height="332"/>
+	<SubTexture name="talk loop upset0003" x="488" y="664" width="244" height="332"/>
+	<SubTexture name="talk loop upset0004" x="732" y="664" width="244" height="332"/>
+	<SubTexture name="talk loop upset0005" x="732" y="664" width="244" height="332"/>
+</TextureAtlas>

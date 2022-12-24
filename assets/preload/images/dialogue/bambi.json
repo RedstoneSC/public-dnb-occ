@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		140,
+		120
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "talk loop normal",
+			"idle_name": "talk loop normal0005"
+		},
+		{
+			"loop_name": "talk loop annoyed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "talk loop annoyed0005",
+			"anim": "annoyed",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "talk loop screwed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "talk loop screwed0005",
+			"anim": "screwed",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "talk loop upset",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "talk loop upset0005",
+			"anim": "upset",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "bambiDialogue"
+}

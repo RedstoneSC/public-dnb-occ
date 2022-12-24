@@ -1,0 +1,119 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				203,
+				-39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				18,
+				-56
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-13,
+				67
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-40,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-20
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-20
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "idle",
+			"indices": [
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bambibutred",
+	"position": [
+		-170,
+		60
+	],
+	"healthicon": "redbambi",
+	"flip_x": false,
+	"healthbar_colors": [
+		227,
+		1,
+		1
+	],
+	"camera_position": [
+		330,
+		340
+	],
+	"sing_duration": 6.1,
+	"scale": 0.4
+}

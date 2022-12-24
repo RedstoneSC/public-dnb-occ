@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boyfriendDialogue.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="talk loop confused0000" x="0" y="0" width="369" height="420"/>
+	<SubTexture name="talk loop confused0001" x="0" y="0" width="369" height="420"/>
+	<SubTexture name="talk loop confused0002" x="369" y="0" width="369" height="420"/>
+	<SubTexture name="talk loop confused0003" x="369" y="0" width="369" height="420"/>
+	<SubTexture name="talk loop confused0004" x="738" y="0" width="369" height="420"/>
+	<SubTexture name="talk loop confused0005" x="738" y="0" width="369" height="420"/>
+	<SubTexture name="talk loop happy0000" x="1107" y="0" width="369" height="420"/>
+	<SubTexture name="talk loop happy0001" x="1107" y="0" width="369" height="420"/>
+	<SubTexture name="talk loop happy0002" x="1476" y="0" width="369" height="420"/>
+	<SubTexture name="talk loop happy0003" x="1476" y="0" width="369" height="420"/>
+	<SubTexture name="talk loop happy0004" x="0" y="420" width="369" height="420"/>
+	<SubTexture name="talk loop happy0005" x="0" y="420" width="369" height="420"/>
+	<SubTexture name="talk loop ready0000" x="369" y="420" width="369" height="420"/>
+	<SubTexture name="talk loop ready0001" x="369" y="420" width="369" height="420"/>
+	<SubTexture name="talk loop ready0002" x="738" y="420" width="369" height="420"/>
+	<SubTexture name="talk loop ready0003" x="738" y="420" width="369" height="420"/>
+	<SubTexture name="talk loop ready0004" x="1107" y="420" width="369" height="420"/>
+	<SubTexture name="talk loop ready0005" x="1107" y="420" width="369" height="420"/>
+	<SubTexture name="talk loop sad0000" x="1476" y="420" width="369" height="420"/>
+	<SubTexture name="talk loop sad0001" x="1476" y="420" width="369" height="420"/>
+	<SubTexture name="talk loop sad0002" x="0" y="840" width="369" height="420"/>
+	<SubTexture name="talk loop sad0003" x="0" y="840" width="369" height="420"/>
+	<SubTexture name="talk loop sad0004" x="369" y="840" width="369" height="420"/>
+	<SubTexture name="talk loop sad0005" x="369" y="840" width="369" height="420"/>
+	<SubTexture name="talk loop screwed0000" x="738" y="840" width="369" height="420"/>
+	<SubTexture name="talk loop screwed0001" x="738" y="840" width="369" height="420"/>
+	<SubTexture name="talk loop screwed0002" x="1107" y="840" width="369" height="420"/>
+	<SubTexture name="talk loop screwed0003" x="1107" y="840" width="369" height="420"/>
+	<SubTexture name="talk loop screwed0004" x="1476" y="840" width="369" height="420"/>
+	<SubTexture name="talk loop screwed0005" x="1476" y="840" width="369" height="420"/>
+	<SubTexture name="talk loop upset0000" x="0" y="1260" width="369" height="420"/>
+	<SubTexture name="talk loop upset0001" x="0" y="1260" width="369" height="420"/>
+	<SubTexture name="talk loop upset0002" x="369" y="1260" width="369" height="420"/>
+	<SubTexture name="talk loop upset0003" x="369" y="1260" width="369" height="420"/>
+	<SubTexture name="talk loop upset0004" x="738" y="1260" width="369" height="420"/>
+	<SubTexture name="talk loop upset0005" x="738" y="1260" width="369" height="420"/>
+</TextureAtlas>

@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "bluecubes",
+		"player1": "bf",
+		"player2": "dave3d",
+		"player3": null,
+		"events": [
+			[
+				21600,
+				[
+					[
+						"Toggle Shaders",
+						"",
+						""
+					]
+				]
+			],
+			[
+				36000,
+				[
+					[
+						"Toggle Shaders",
+						"",
+						""
+					]
+				]
+			],
+			[
+				91200,
+				[
+					[
+						"Toggle Shaders",
+						"",
+						""
+					]
+				]
+			],
+			[
+				105600,
+				[
+					[
+						"Toggle Shaders",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": true,
+		"gfVersion": "gf",
+		"bpm": 200,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Cubic-old"
+	}
+}

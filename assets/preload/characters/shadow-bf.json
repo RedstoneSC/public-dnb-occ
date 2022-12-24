@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				-18
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				79,
+				-29
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				6
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-7
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "right0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				26,
+				4
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "up miss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				5
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "up miss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				6
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				18
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "right miss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				6
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "up miss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				64,
+				-16
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "down miss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				63,
+				-9
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "left miss0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "death first"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/shadowsmol",
+	"position": [
+		30,
+		250
+	],
+	"healthicon": "shadow",
+	"flip_x": true,
+	"healthbar_colors": [
+		10,
+		10,
+		10
+	],
+	"camera_position": [
+		100,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

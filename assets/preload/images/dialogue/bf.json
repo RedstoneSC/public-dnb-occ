@@ -1,0 +1,89 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "confused",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "talk loop confused0005",
+			"loop_name": "talk loop confused"
+		},
+		{
+			"loop_name": "talk loop happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "talk loop happy0005",
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "talk loop ready",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "talk loop ready0005",
+			"anim": "ready",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "talk loop sad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "talk loop sad0005",
+			"anim": "sad",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "talk loop screwed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "talk loop screwed0005",
+			"anim": "screwed",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "talk loop upset",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "talk loop upset0005",
+			"anim": "upset",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "boyfriendDialogue"
+}

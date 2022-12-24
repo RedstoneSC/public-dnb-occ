@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.035,
+			"portrait": "bambi",
+			"boxState": "normal",
+			"mod": "NONE",
+			"expression": "annoyed",
+			"text": "i am going to break myh phone if is do this"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"mod": "NONE",
+			"expression": "confused",
+			"text": "bro what"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"mod": "NONE",
+			"expression": "confused",
+			"text": "didnt you break your phone the first time we met"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"mod": "NONE",
+			"expression": "confused",
+			"text": "can we not do this again? we have already discussed this"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"mod": "NONE",
+			"expression": "confused",
+			"text": "we are not trying to steal your corn okay?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"mod": "NONE",
+			"expression": "happy",
+			"text": "yes"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bambi",
+			"boxState": "normal",
+			"mod": "NONE",
+			"expression": "annoyed",
+			"text": "no"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"mod": "NONE",
+			"expression": "happy",
+			"text": ":skull:"
+		}
+	]
+}

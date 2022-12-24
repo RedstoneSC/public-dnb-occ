@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "PoppinBandu Idle"
+		},
+		{
+			"offsets": [
+				20,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "PoppinBandu Down"
+		},
+		{
+			"offsets": [
+				0,
+				28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "PoppinBandu Up"
+		},
+		{
+			"offsets": [
+				70,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "PoppinBandu Right"
+		},
+		{
+			"offsets": [
+				-68,
+				-21
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "PoppinBandu Left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PoppinBandu",
+	"position": [
+		-380,
+		0
+	],
+	"healthicon": "bandupoppin",
+	"flip_x": false,
+	"healthbar_colors": [
+		51,
+		127,
+		51
+	],
+	"camera_position": [
+		160,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

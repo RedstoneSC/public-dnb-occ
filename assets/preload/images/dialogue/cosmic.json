@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-300,
+		-270
+	],
+	"scale": 0.649999999999999,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				4
+			],
+			"loop_name": "cosmic idle loop",
+			"idle_name": "cosmic idle loop"
+		},
+		{
+			"loop_name": "cosmic talk loop main",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "cosmic idle loop",
+			"anim": "talkingup",
+			"loop_offsets": [
+				13,
+				0
+			]
+		},
+		{
+			"loop_name": "cosmic talk loop cover mouth",
+			"idle_offsets": [
+				-7,
+				-5
+			],
+			"idle_name": "cosmic idle loop",
+			"anim": "cover",
+			"loop_offsets": [
+				60,
+				0
+			]
+		}
+	],
+	"image": "cosmDialogue"
+}

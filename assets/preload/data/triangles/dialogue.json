@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "flumbo",
+			"boxState": "normal",
+			"mod": "NONE",
+			"expression": "idle",
+			"text": "nice"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"mod": "NONE",
+			"expression": "happy",
+			"text": "yea"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "flumbo",
+			"boxState": "normal",
+			"mod": "NONE",
+			"expression": "up",
+			"text": "wanna again sing it?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"mod": "NONE",
+			"expression": "talk",
+			"text": "what"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "flumbo",
+			"boxState": "normal",
+			"mod": "NONE",
+			"expression": "idle",
+			"text": "ok"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"mod": "NONE",
+			"expression": "happy",
+			"text": "okokokok"
+		}
+	]
+}

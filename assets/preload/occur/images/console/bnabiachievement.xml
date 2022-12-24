@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bnabiachievement.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bnabi0000" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="bnabi0001" x="1280" y="0" width="1280" height="720"/>
+	<SubTexture name="bnabi0002" x="2560" y="0" width="1280" height="720"/>
+	<SubTexture name="bnabi0003" x="3840" y="0" width="1280" height="720"/>
+	<SubTexture name="bnabi0004" x="3840" y="0" width="1280" height="720"/>
+	<SubTexture name="bnabi0005" x="5120" y="0" width="1280" height="720"/>
+	<SubTexture name="bnabi0006" x="5120" y="0" width="1280" height="720"/>
+	<SubTexture name="bnabi0007" x="6400" y="0" width="1280" height="720"/>
+	<SubTexture name="bnabi0008" x="6400" y="0" width="1280" height="720"/>
+	<SubTexture name="bnabi0009" x="6400" y="0" width="1280" height="720"/>
+	<SubTexture name="bnabi0010" x="6400" y="0" width="1280" height="720"/>
+	<SubTexture name="bnabi0011" x="6400" y="0" width="1280" height="720"/>
+	<SubTexture name="bnabi0012" x="6400" y="0" width="1280" height="720"/>
+	<SubTexture name="bnabi0013" x="6400" y="0" width="1280" height="720"/>
+	<SubTexture name="bnabi0014" x="6400" y="0" width="1280" height="720"/>
+	<SubTexture name="bnabi0015" x="6400" y="0" width="1280" height="720"/>
+	<SubTexture name="bnabi0016" x="6400" y="0" width="1280" height="720"/>
+	<SubTexture name="bnabi0017" x="6400" y="0" width="1280" height="720"/>
+	<SubTexture name="bnabi0018" x="0" y="720" width="1280" height="720"/>
+	<SubTexture name="bnabi0019" x="1280" y="720" width="1280" height="720"/>
+	<SubTexture name="bnabi0020" x="2560" y="720" width="1280" height="720"/>
+	<SubTexture name="bnabi0021" x="3840" y="720" width="1280" height="720"/>
+	<SubTexture name="bnabi0022" x="5120" y="720" width="1280" height="720"/>
+	<SubTexture name="bnabi0023" x="6400" y="720" width="1280" height="720"/>
+	<SubTexture name="bnabi0024" x="0" y="1440" width="1280" height="720"/>
+	<SubTexture name="bnabi0025" x="1280" y="1440" width="1280" height="720"/>
+	<SubTexture name="bnabi0026" x="2560" y="1440" width="1280" height="720"/>
+	<SubTexture name="bnabi0027" x="3840" y="1440" width="1280" height="720"/>
+	<SubTexture name="bnabi0028" x="5120" y="1440" width="1280" height="720"/>
+	<SubTexture name="bnabi0029" x="6400" y="1440" width="1280" height="720"/>
+	<SubTexture name="bnabi0030" x="0" y="2160" width="1280" height="720"/>
+	<SubTexture name="bnabi0031" x="1280" y="2160" width="1280" height="720"/>
+	<SubTexture name="bnabi0032" x="2560" y="2160" width="1280" height="720"/>
+	<SubTexture name="bnabi0033" x="3840" y="2160" width="1280" height="720"/>
+	<SubTexture name="bnabi0034" x="5120" y="2160" width="1280" height="720"/>
+	<SubTexture name="bnabi0035" x="5120" y="2160" width="1280" height="720"/>
+	<SubTexture name="bnabi0036" x="5120" y="2160" width="1280" height="720"/>
+	<SubTexture name="bnabi0037" x="5120" y="2160" width="1280" height="720"/>
+	<SubTexture name="bnabi0038" x="5120" y="2160" width="1280" height="720"/>
+	<SubTexture name="bnabi0039" x="5120" y="2160" width="1280" height="720"/>
+	<SubTexture name="bnabi0040" x="5120" y="2160" width="1280" height="720"/>
+	<SubTexture name="bnabi0041" x="5120" y="2160" width="1280" height="720"/>
+	<SubTexture name="bnabi0042" x="5120" y="2160" width="1280" height="720"/>
+	<SubTexture name="bnabi0043" x="5120" y="2160" width="1280" height="720"/>
+	<SubTexture name="bnabi0044" x="5120" y="2160" width="1280" height="720"/>
+	<SubTexture name="bnabi0045" x="5120" y="2160" width="1280" height="720"/>
+	<SubTexture name="bnabi0046" x="5120" y="2160" width="1280" height="720"/>
+	<SubTexture name="bnabi0047" x="5120" y="2160" width="1280" height="720"/>
+	<SubTexture name="bnabi0048" x="5120" y="2160" width="1280" height="720"/>
+	<SubTexture name="bnabi0049" x="5120" y="2160" width="1280" height="720"/>
+	<SubTexture name="bnabi0050" x="5120" y="2160" width="1280" height="720"/>
+	<SubTexture name="bnabi0051" x="5120" y="2160" width="1280" height="720"/>
+	<SubTexture name="bnabi0052" x="6400" y="2160" width="1280" height="720"/>
+	<SubTexture name="bnabi0053" x="6400" y="2160" width="1280" height="720"/>
+	<SubTexture name="bnabi0054" x="0" y="2880" width="1280" height="720"/>
+	<SubTexture name="bnabi0055" x="0" y="2880" width="1280" height="720"/>
+	<SubTexture name="bnabi0056" x="1280" y="2880" width="1280" height="720"/>
+	<SubTexture name="bnabi0057" x="2560" y="2880" width="1280" height="720"/>
+	<SubTexture name="bnabi0058" x="3840" y="2880" width="1280" height="720"/>
+</TextureAtlas>

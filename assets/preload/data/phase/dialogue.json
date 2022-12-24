@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"expression": "talkingup",
+			"text": "url jrypbzr gb erq cynpr be fzgu",
+			"mod": "NONE",
+			"boxState": "normal",
+			"portrait": "cosmic",
+			"speed": 0.05
+		},
+		{
+			"expression": "confused",
+			"text": "why is it red",
+			"mod": "NONE",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "vgf erq",
+			"mod": "NONE",
+			"boxState": "normal",
+			"portrait": "cosmic",
+			"speed": 0.05
+		},
+		{
+			"expression": "happy",
+			"text": "oh ok",
+			"mod": "NONE",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "happy",
+			"text": "sing",
+			"mod": "NONE",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "cover",
+			"text": "ab",
+			"mod": "NONE",
+			"boxState": "normal",
+			"portrait": "cosmic",
+			"speed": 0.05
+		},
+		{
+			"expression": "happy",
+			"text": "i will give you deez candies",
+			"mod": "NONE",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "bu bx",
+			"mod": "NONE",
+			"boxState": "normal",
+			"portrait": "cosmic",
+			"speed": 0.05
+		}
+	]
+}

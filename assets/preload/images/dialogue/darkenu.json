@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-20,
+		50
+	],
+	"scale": 1.1,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-28,
+				13
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "talk loop",
+			"idle_name": "idle loop"
+		}
+	],
+	"image": "darkenuDialogue"
+}

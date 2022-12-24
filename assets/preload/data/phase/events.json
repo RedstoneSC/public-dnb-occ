@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "cosmic",
+		"player1": "bf",
+		"player2": "cosmic",
+		"player3": null,
+		"events": [
+			[
+				57.6923076923077,
+				[
+					[
+						"Cosmic Eye",
+						"0",
+						"13"
+					]
+				]
+			],
+			[
+				61153.8461538461,
+				[
+					[
+						"Cosmic Eye",
+						"0",
+						"26"
+					]
+				]
+			],
+			[
+				105980.769230769,
+				[
+					[
+						"Cosmic Eye",
+						"0",
+						"14"
+					]
+				]
+			],
+			[
+				178269.230769231,
+				[
+					[
+						"Cosmic Eye",
+						"0",
+						"16"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": true,
+		"gfVersion": "gf",
+		"bpm": 260,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Phase"
+	}
+}

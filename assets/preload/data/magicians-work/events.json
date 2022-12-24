@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "gerlad",
+		"player1": "bf",
+		"player2": "gerald",
+		"player3": null,
+		"events": [
+			[
+				116454.545454546,
+				[
+					[
+						"Swear Vocal Toggle hehehehheha",
+						"",
+						""
+					]
+				]
+			],
+			[
+				116795.454545455,
+				[
+					[
+						"Swear Vocal Toggle hehehehheha",
+						"",
+						""
+					]
+				]
+			],
+			[
+				117204.545454545,
+				[
+					[
+						"Swear Vocal Toggle hehehehheha",
+						"",
+						""
+					]
+				]
+			],
+			[
+				117750,
+				[
+					[
+						"Swear Vocal Toggle hehehehheha",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": true,
+		"gfVersion": "gf",
+		"bpm": 165,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Magicians-Work"
+	}
+}

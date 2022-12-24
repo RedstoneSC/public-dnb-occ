@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "i am 3d now",
+			"boxState": "normal",
+			"mod": "NONE",
+			"speed": 0.05,
+			"portrait": "dave3dconfident"
+		},
+		{
+			"expression": "talk",
+			"text": "ok bye",
+			"boxState": "normal",
+			"mod": "NONE",
+			"speed": 0.05,
+			"portrait": "bambi"
+		},
+		{
+			"expression": "confused",
+			"text": "what i thought you were unable to control ur 3d powers",
+			"boxState": "normal",
+			"mod": "NONE",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "isnt that like the lore",
+			"boxState": "normal",
+			"mod": "NONE",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "yes",
+			"boxState": "normal",
+			"mod": "NONE",
+			"speed": 0.05,
+			"portrait": "dave3dconfident"
+		},
+		{
+			"expression": "upset",
+			"text": "oh",
+			"boxState": "normal",
+			"mod": "NONE",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "sing me",
+			"boxState": "normal",
+			"mod": "NONE",
+			"speed": 0.05,
+			"portrait": "dave3dconfident"
+		},
+		{
+			"expression": "confused",
+			"text": "i mean i dont really have a choice man",
+			"boxState": "normal",
+			"mod": "NONE",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "you just kinda locked me up in a giant 3d space i mean",
+			"boxState": "normal",
+			"mod": "NONE",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "sing me",
+			"boxState": "normal",
+			"mod": "NONE",
+			"speed": 0.05,
+			"portrait": "dave3dconfident"
+		},
+		{
+			"expression": "happy",
+			"text": "ok",
+			"boxState": "normal",
+			"mod": "NONE",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

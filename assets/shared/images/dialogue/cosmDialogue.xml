@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cosmDialogue.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cosmic idle loop0000" x="0" y="0" width="1109" height="1080"/>
+	<SubTexture name="cosmic idle loop0001" x="1109" y="0" width="1109" height="1080"/>
+	<SubTexture name="cosmic idle loop0002" x="2218" y="0" width="1109" height="1080"/>
+	<SubTexture name="cosmic idle loop0003" x="3327" y="0" width="1109" height="1080"/>
+	<SubTexture name="cosmic idle loop0004" x="4436" y="0" width="1109" height="1080"/>
+	<SubTexture name="cosmic idle loop0005" x="5545" y="0" width="1109" height="1080"/>
+	<SubTexture name="cosmic idle loop0006" x="6654" y="0" width="1109" height="1080"/>
+	<SubTexture name="cosmic idle loop0007" x="0" y="1080" width="1109" height="1080"/>
+	<SubTexture name="cosmic idle loop0008" x="1109" y="1080" width="1109" height="1080"/>
+	<SubTexture name="cosmic idle loop0009" x="2218" y="1080" width="1109" height="1080"/>
+	<SubTexture name="cosmic idle loop0010" x="3327" y="1080" width="1109" height="1080"/>
+	<SubTexture name="cosmic idle loop0011" x="4436" y="1080" width="1109" height="1080"/>
+	<SubTexture name="cosmic idle loop0012" x="5545" y="1080" width="1109" height="1080"/>
+	<SubTexture name="cosmic idle loop0013" x="6654" y="1080" width="1109" height="1080"/>
+	<SubTexture name="cosmic idle loop0014" x="0" y="2160" width="1109" height="1080"/>
+	<SubTexture name="cosmic idle loop0015" x="1109" y="2160" width="1109" height="1080"/>
+	<SubTexture name="cosmic idle loop0016" x="2218" y="2160" width="1109" height="1080"/>
+	<SubTexture name="cosmic idle loop0017" x="3327" y="2160" width="1109" height="1080"/>
+	<SubTexture name="cosmic idle loop0018" x="4436" y="2160" width="1109" height="1080"/>
+	<SubTexture name="cosmic idle loop0019" x="5545" y="2160" width="1109" height="1080"/>
+	<SubTexture name="cosmic idle loop0020" x="6654" y="2160" width="1109" height="1080"/>
+	<SubTexture name="cosmic idle loop0021" x="5545" y="2160" width="1109" height="1080"/>
+	<SubTexture name="cosmic idle loop0022" x="4436" y="2160" width="1109" height="1080"/>
+	<SubTexture name="cosmic idle loop0023" x="3327" y="2160" width="1109" height="1080"/>
+	<SubTexture name="cosmic idle loop0024" x="2218" y="2160" width="1109" height="1080"/>
+	<SubTexture name="cosmic idle loop0025" x="1109" y="2160" width="1109" height="1080"/>
+	<SubTexture name="cosmic idle loop0026" x="0" y="3240" width="1109" height="1080"/>
+	<SubTexture name="cosmic idle loop0027" x="1109" y="3240" width="1109" height="1080"/>
+	<SubTexture name="cosmic idle loop0028" x="2218" y="3240" width="1109" height="1080"/>
+	<SubTexture name="cosmic idle loop0029" x="3327" y="3240" width="1109" height="1080"/>
+	<SubTexture name="cosmic idle loop0030" x="4436" y="3240" width="1109" height="1080"/>
+	<SubTexture name="cosmic idle loop0031" x="5545" y="3240" width="1109" height="1080"/>
+	<SubTexture name="cosmic idle loop0032" x="1109" y="1080" width="1109" height="1080"/>
+	<SubTexture name="cosmic idle loop0033" x="0" y="1080" width="1109" height="1080"/>
+	<SubTexture name="cosmic idle loop0034" x="6654" y="0" width="1109" height="1080"/>
+	<SubTexture name="cosmic idle loop0035" x="5545" y="0" width="1109" height="1080"/>
+	<SubTexture name="cosmic idle loop0036" x="4436" y="0" width="1109" height="1080"/>
+	<SubTexture name="cosmic idle loop0037" x="3327" y="0" width="1109" height="1080"/>
+	<SubTexture name="cosmic idle loop0038" x="2218" y="0" width="1109" height="1080"/>
+	<SubTexture name="cosmic idle loop0039" x="1109" y="0" width="1109" height="1080"/>
+	<SubTexture name="cosmic idle loop0040" x="0" y="0" width="1109" height="1080"/>
+	<SubTexture name="cosmic talk loop cover mouth0000" x="6654" y="3240" width="1157" height="1080"/>
+	<SubTexture name="cosmic talk loop cover mouth0001" x="0" y="4320" width="1157" height="1080"/>
+	<SubTexture name="cosmic talk loop cover mouth0002" x="1157" y="4320" width="1157" height="1080"/>
+	<SubTexture name="cosmic talk loop cover mouth0003" x="2314" y="4320" width="1157" height="1080"/>
+	<SubTexture name="cosmic talk loop cover mouth0004" x="3471" y="4320" width="1157" height="1080"/>
+	<SubTexture name="cosmic talk loop cover mouth0005" x="4628" y="4320" width="1157" height="1080"/>
+	<SubTexture name="cosmic talk loop main0000" x="5785" y="4320" width="1122" height="1080"/>
+	<SubTexture name="cosmic talk loop main0001" x="6907" y="4320" width="1122" height="1080"/>
+	<SubTexture name="cosmic talk loop main0002" x="0" y="5400" width="1122" height="1080"/>
+	<SubTexture name="cosmic talk loop main0003" x="1122" y="5400" width="1122" height="1080"/>
+	<SubTexture name="cosmic talk loop main0004" x="2244" y="5400" width="1122" height="1080"/>
+	<SubTexture name="cosmic talk loop main0005" x="3366" y="5400" width="1122" height="1080"/>
+</TextureAtlas>

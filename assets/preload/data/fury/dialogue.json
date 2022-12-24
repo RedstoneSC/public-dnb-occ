@@ -1,0 +1,108 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"mod": "NONE",
+			"expression": "confused",
+			"text": "bro what"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"mod": "NONE",
+			"expression": "confused",
+			"text": "man lookin like a flamin' hot cheeto puff fr"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"mod": "NONE",
+			"expression": "happy",
+			"text": "tru"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "redbambi",
+			"boxState": "normal",
+			"mod": "NONE",
+			"expression": "talk",
+			"text": "i am so mad bro"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"mod": "NONE",
+			"expression": "confused",
+			"text": "i can tell"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"mod": "NONE",
+			"expression": "confused",
+			"text": "but why"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "redbambi",
+			"boxState": "normal",
+			"mod": "NONE",
+			"expression": "talk",
+			"text": "its just kinda the typical formula for a bambi week or any fnf week really"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"mod": "NONE",
+			"expression": "happy",
+			"text": "ah ok"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"mod": "NONE",
+			"expression": "sad",
+			"text": "can i sing my neck hurts from constantly bopping back and forth"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"mod": "NONE",
+			"expression": "happy",
+			"text": "no"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"mod": "NONE",
+			"expression": "what",
+			"text": "bruh "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "redbambi",
+			"boxState": "normal",
+			"mod": "NONE",
+			"expression": "talk",
+			"text": "sing me"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"mod": "NONE",
+			"expression": "happy",
+			"text": "ok"
+		}
+	]
+}
