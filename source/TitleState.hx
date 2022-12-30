@@ -85,7 +85,7 @@ class TitleState extends MusicBeatState
 		if (!closedState)
 		{
 			trace('checking for update');
-			var http = new haxe.Http("https://raw.githubusercontent.com/brosomethingwrongwithyothing/dnb-occ-public/gameVersion.txt");
+			var http = new haxe.Http("https://raw.githubusercontent.com/RafPlayz69YT/public-dnb-occ/master/gameVersion.txt");
 
 			http.onData = function(data:String)
 			{

@@ -1,1 +1,2 @@
-V1.0
+V1.0.1;
+-check changelog.txt too lazy to add for now

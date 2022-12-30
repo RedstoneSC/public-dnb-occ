@@ -17,7 +17,7 @@ class OutdatedState extends MusicBeatState
 	override function create()
 	{
 		super.create();
-		var http = new haxe.Http("https://raw.githubusercontent.com/brosomethingwrongwithyothing/dnb-occ-public/gameLink.txt");
+		var http = new haxe.Http("https://raw.githubusercontent.com/RafPlayz69YT/public-dnb-occ/master/gameLink.txt");
 		http.onData = function(data:String)
 		{
 			link = data;
@@ -41,7 +41,7 @@ class OutdatedState extends MusicBeatState
 			+ " \nRecommended to update!\nNew changes: "
 			+ infos[2]
 			+ "\n\nPress Enter to go to the page, Backspace to continue.", 32);
-		warnText.setFormat("Comic Sans MS Bold", Std.int(CoolUtil.boundTo(33 / (warnText.text.length / 40), 24, 38)), FlxColor.WHITE, CENTER);
+		warnText.setFormat("Comic Sans MS Bold", Std.int(CoolUtil.boundTo(33 / (warnText.text.length / 40), 24, 38) * 1.5), FlxColor.WHITE, CENTER);
 		warnText.screenCenter(Y);
 		warnText.y -= 50;
 		add(warnText);

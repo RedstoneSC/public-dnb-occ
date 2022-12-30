@@ -15,10 +15,10 @@ class PiracyState extends MusicBeatState
 		"https://www.youtube.com/watch?v=nD2hWVD3gnU",
 		"https://www.youtube.com/channel/UCmXh1HTaH_KRwisl0892KLA",
 		"https://www.youtube.com/channel/UCQwQlTEsZn2EYGf5fdyZyKA",
-		"https://www.youtube.com/channel/UCWRK7ciAd1U5XULI8xXR2fQ",
 		"https://www.youtube.com/channel/UCIEBRm_M5SweHOK9x94N2fw",
 		"https://www.youtube.com/watch?v=qnIbmE5ggI4",
-		"https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+		"https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+		"https://www.github.com/RafPlayz69YT/public-dnb-occ"
 	];
 
 	override public function create()

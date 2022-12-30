@@ -27,10 +27,10 @@ class CharacterSelectState extends MusicBeatState
 		["awesomebambi-playernew", "awesomebambi-player", "realbambi-player"],
 		["snacker-player", "poppin-new-player", "poppin-player"],
 		["cosmicnew-player", "cosmic-player"],
-		["flumbonew-player","flumbo-player"],
+		["flumbonew-player", "flumbo-player"],
 		["darkenu-player"],
 		["gerald-player"],
-		["rephonu-player"],
+		["rephonuNEW-player", "rephonu-player"],
 		["pimble-player"],
 		["bogosbruj", "bruj", "dzubbogos-player"],
 		["shadow-bf"]
@@ -52,10 +52,10 @@ class CharacterSelectState extends MusicBeatState
 		["Bambi But Awesome", "Bambi But Awesome (Old)", "Real Bambi"],
 		["Bandu (Snacker)", "Bandu (Poppin')", "Bandu (Poppin') Old"],
 		["Cosmic", "Cosmic (Old)"],
-		["Flumbo","Flumbo (Old)"],
+		["Flumbo", "Flumbo (Old)"],
 		["Darkenu"],
 		["Gerald"],
-		["Rephonu"],
+		["Rephonu", "Rephonu (Old)"],
 		["Pimble Glob"],
 		["bruj (Bogos)", "Fun-sized bruj", "dzub"],
 		["Fun-sized Shadow", "Shadow"]
@@ -70,10 +70,10 @@ class CharacterSelectState extends MusicBeatState
 		[[-40, -110], [-54, -110], [-29, 23]], // joke bambs
 		[[320, -68], [155, 30], [153, 14]], // bandus
 		[[-118, -120], [230, 200]], // cosmics
-		[[75,-9],[141, -11]], // flum
+		[[75, -9], [141, -11]], // flum
 		[[231, 93]], // darking
 		[[-384, -373]], // gerald
-		[[0, -25]], // rephonu
+		[[0, -94], [0, -25]], // rephonu
 		[[80, 640]], // pimble globber!!!
 		[[30, -50], [9, 20], [32, 0]], // bruj and dzub
 		[[28, -17], [0, 0]] // shadows
@@ -88,10 +88,10 @@ class CharacterSelectState extends MusicBeatState
 		[1, 1, 1], // joker bam
 		[0.69, 0.7, 0.67], // bandus
 		[0.65, 0.65], // cosmicing
-		[0.85,0.85], // flambose
+		[0.85, 0.85], // flambose
 		[0.55], // dareker guy fnf
 		[0.9], // gerlad
-		[0.79], // rephonuin
+		[0.65, 0.79], // rephonuin
 		[1], // gimble plobber!!!
 		[1, 1, 1], // brujs and the zdub
 		[0.9, 1] // shdows

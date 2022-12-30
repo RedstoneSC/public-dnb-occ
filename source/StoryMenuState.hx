@@ -437,7 +437,7 @@ class StoryMenuState extends MusicBeatState
 		}
 		else
 		{
-			if (assetName == "trio" && Highscore.getScore("occurathon", 0) <= 0)
+			if (assetName == "trio" && Highscore.getScoreDiff("occurathon", "Hard") <= 0)
 				assetName = "trioinvis";
 			bgSprite.loadGraphic(Paths.image('menubackgrounds/menu_' + assetName));
 		}

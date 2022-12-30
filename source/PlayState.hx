@@ -712,7 +712,7 @@ class PlayState extends MusicBeatState // hi guys
 			'songPercent', 0, 1);
 		timeBar.scrollFactor.set();
 		var fill = FlxColor.fromRGB(dad.healthColorArray[0], dad.healthColorArray[1], dad.healthColorArray[2]);
-		fill.brightness = 0.85;
+		fill.brightness += Math.min(0.05, 1 - fill.brightness);
 		timeBar.createFilledBar(0xFF000000, (ClientPrefs.timeColorBar) ? fill : 0xFFFFFFFF);
 		timeBar.numDivisions = 600;
 		timeBar.alpha = 0;
@@ -921,7 +921,7 @@ class PlayState extends MusicBeatState // hi guys
 				"short-stalk-old" | "snacker-eduardo-old" | "snacker-older" | "fury":
 				songMaker = "kstr743";
 			case "poppin" | "poppin-oldest" | "breaking-madness" | "bambino" | "shucked" | "poppin-older" | "heheheha" | "brick" | "poppin-old" |
-				"alien-language" | "wilderness" | "mechanical" | "pebble" | "[redacted]" | "triangles" | "budget-quingen":
+				"alien-language" | "wilderness" | "mechanical" | "mechanical-old" | "pebble" | "[redacted]" | "triangles" | "budget-quingen":
 				songMaker = "bruj";
 				if (SONG.song.toLowerCase() == "alien-language")
 					songMaker += " & dzub";
@@ -1069,9 +1069,11 @@ class PlayState extends MusicBeatState // hi guys
 		DiscordClient.changePresence(detailsText, SONG.song + " (" + storyDifficultyText + ")", iconP2.getCharacter(), null, null,
 			'Score: ${songScore} | Misses: ${songMisses} | Rating: ${ratingName} (${ratingPercent}%)');
 		#end
-
-		FlxG.stage.addEventListener(KeyboardEvent.KEY_DOWN, onKeyPressListen);
-		FlxG.stage.addEventListener(KeyboardEvent.KEY_UP, onKeyRelease);
+		if (!ClientPrefs.controllerMode)
+		{
+			FlxG.stage.addEventListener(KeyboardEvent.KEY_DOWN, onKeyPressListen);
+			FlxG.stage.addEventListener(KeyboardEvent.KEY_UP, onKeyRelease);
+		}
 
 		Conductor.safeZoneOffset = (ClientPrefs.safeFrames / 60) * 1000;
 
@@ -1171,9 +1173,16 @@ class PlayState extends MusicBeatState // hi guys
 				bg.destroy();
 			}
 		}
+		var antilase = ClientPrefs.globalAntialiasing;
 		var testshader:Shaders.GlitchEffect = new Shaders.GlitchEffect();
 		switch (curStage)
 		{
+			case "repairitup":
+				var bg:FlxSprite = new FlxSprite(-400, -510).loadGraphic(Paths.occurPath("phoneu_re_bg", IMAGES));
+				bg.scale.set(1.1, 1.1);
+				antilase = false;
+				if (!preloadingStuff)
+					bgs.add(bg);
 			case "rephonman":
 				var bg:FlxSprite = new FlxSprite(-400, -510).loadGraphic(Paths.occurPath("phoneu_re_bg", IMAGES));
 				bg.scrollFactor.set(0.9, 0.9);
@@ -1374,30 +1383,31 @@ class PlayState extends MusicBeatState // hi guys
 				bgs.add(chainswithdonutsyum);
 				chainswithdonutsyum.shader = testshader.shader;
 				canPause = false;
-
-				var ease = FlxEase.quartInOut;
-				FlxTween.num(0.02, 0.3, 172.8, {ease: ease}, function(v:Float)
+				if (ClientPrefs.wavyBGs)
 				{
-					for (bgthing in bgs)
+					var ease = FlxEase.quartInOut;
+					FlxTween.num(0.02, 0.3, 172.8, {ease: ease}, function(v:Float)
 					{
-						cast(bgthing.shader, Shaders.GlitchShader).uWaveAmplitude.value[0] = v;
-					}
-				});
-				FlxTween.num(1, 3, 172.8, {ease: ease}, function(v:Float)
-				{
-					for (bgthing in bgs)
+						for (bgthing in bgs)
+						{
+							cast(bgthing.shader, Shaders.GlitchShader).uWaveAmplitude.value[0] = v;
+						}
+					});
+					FlxTween.num(1, 3, 172.8, {ease: ease}, function(v:Float)
 					{
-						cast(bgthing.shader, Shaders.GlitchShader).uFrequency.value[0] = v;
-					}
-				});
-				FlxTween.num(1, 2.5, 172.8, {ease: ease}, function(v:Float)
-				{
-					for (bgthing in bgs)
+						for (bgthing in bgs)
+						{
+							cast(bgthing.shader, Shaders.GlitchShader).uFrequency.value[0] = v;
+						}
+					});
+					FlxTween.num(1, 2.5, 172.8, {ease: ease}, function(v:Float)
 					{
-						cast(bgthing.shader, Shaders.GlitchShader).uSpeed.value[0] = v;
-					}
-				});
-
+						for (bgthing in bgs)
+						{
+							cast(bgthing.shader, Shaders.GlitchShader).uSpeed.value[0] = v;
+						}
+					});
+				}
 			case 'baseplate':
 				var bg:FlxSprite = new FlxSprite(-400, -200);
 				bg.loadGraphic(Paths.occurPath("baseplate", IMAGES));
@@ -1533,6 +1543,12 @@ class PlayState extends MusicBeatState // hi guys
 				testshader.waveFrequency = 4;
 				testshader.waveSpeed = 1.5;
 				bg.shader = testshader.shader;
+				if (SONG.song.toLowerCase() == "occurathon" && ClientPrefs.wavyBGs)
+				{
+					bgs.members[0].ID = 0;
+				}
+				else
+					bgs.members[0].ID = 1;
 		}
 		var bgColour = getBackgroundColor(curStage);
 		for (bg in bgs)
@@ -1540,7 +1556,7 @@ class PlayState extends MusicBeatState // hi guys
 			if (bgColour != 0xffffffff)
 				bg.color = bgColour;
 
-			bg.antialiasing = ClientPrefs.globalAntialiasing;
+			bg.antialiasing = antilase;
 			bg.shader = if (ClientPrefs.wavyBGs && (!preloadingStuff)) bg.shader else null;
 		}
 		if (bgColour != 0xffffffff)
@@ -1619,15 +1635,18 @@ class PlayState extends MusicBeatState // hi guys
 		}
 		if (SONG.song.toLowerCase() == "occurathon")
 		{
-			if (bgs.members[0].shader == null && curStage == "triangles") // occurathon is being super screwed
+			if (curStage == "triangles" && bgs.members[0].ID == 0) // occurathon is being super screwed
 			{
 				var testshader:Shaders.GlitchEffect = new Shaders.GlitchEffect();
 				testshader.waveAmplitude = 0.1;
 				testshader.waveFrequency = 4;
 				testshader.waveSpeed = 1.5;
 				bgs.members[0].shader = testshader.shader;
+				bgs.members[0].ID = 1;
 			}
 		}
+		if (FlxG.keys.anyJustPressed([ESCAPE, ENTER]) && !inCutscene)
+			pause();
 		#if debug
 		debugCharMove();
 		#end
@@ -1915,7 +1934,7 @@ class PlayState extends MusicBeatState // hi guys
 		if (ClientPrefs.timeColorBar)
 		{
 			var fill = FlxColor.fromRGB(dad.healthColorArray[0], dad.healthColorArray[1], dad.healthColorArray[2]);
-			fill.brightness = 0.85;
+			fill.brightness += Math.min(0.05, 1 - fill.brightness);
 			timeBar.createFilledBar(0xFF000000, fill);
 		}
 	}
@@ -2130,6 +2149,10 @@ class PlayState extends MusicBeatState // hi guys
 				colorBox = "470000";
 			case "bambino":
 				colorBox = "bb0000";
+			case "mechanical-old":
+				colorBox = "384b7c";
+			case "mechanical":
+				colorBox = "303d82";
 		}
 
 		var box = new FlxSprite(0, 200).makeGraphic(450, 110, FlxColor.fromString("0x99" + colorBox));
@@ -3002,8 +3025,10 @@ class PlayState extends MusicBeatState // hi guys
 			case "Set Property":
 				Reflect.setProperty(this, value1, value2); // idk if works lol too lazy to check
 			case "expunged de-exists from the main window":
+				#if windows
 				if (SONG.song.toLowerCase() == "errorless")
 					popupWindow();
+				#end
 			case "Make BG":
 				makeBG(value1);
 				curStage = value1;
@@ -3993,8 +4018,6 @@ class PlayState extends MusicBeatState // hi guys
 				if (ClientPrefs.noReset)
 					return;
 				health = 0;
-			case FlxKey.ENTER | FlxKey.ESCAPE:
-				pause();
 		}
 	}
 
@@ -4500,8 +4523,11 @@ class PlayState extends MusicBeatState // hi guys
 
 	override function destroy()
 	{
-		FlxG.stage.removeEventListener(KeyboardEvent.KEY_DOWN, onKeyPressListen);
-		FlxG.stage.removeEventListener(KeyboardEvent.KEY_UP, onKeyRelease);
+		if (!ClientPrefs.controllerMode)
+		{
+			FlxG.stage.removeEventListener(KeyboardEvent.KEY_DOWN, onKeyPressListen);
+			FlxG.stage.removeEventListener(KeyboardEvent.KEY_UP, onKeyRelease);
+		}
 
 		shaderOn = false;
 		super.destroy();
