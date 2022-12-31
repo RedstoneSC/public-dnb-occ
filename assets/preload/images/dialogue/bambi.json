@@ -59,5 +59,6 @@
 			]
 		}
 	],
-	"image": "bambiDialogue"
+	"image": "bambiDialogue",
+	"antilasing": true
 }

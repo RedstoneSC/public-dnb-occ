@@ -56,7 +56,7 @@
 			"name": "right"
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/bandu_snackin",
 	"position": [
 		-350,

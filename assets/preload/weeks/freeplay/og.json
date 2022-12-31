@@ -55,6 +55,18 @@
             ]
         ],
         [
+            "Mechanical-old",
+            "rephonu",
+            [
+                56,
+                75,
+                124
+            ],
+            [
+                "Repairs"
+            ]
+        ],
+        [
             "Phones-old",
             "bambibutawesome",
             [
@@ -98,12 +110,9 @@
         ]
     ],
     "weekCharacters": [
-        "this",
-        "is",
-        "pain"
     ],
     "weekBackground": "amog",
-    "storyName": "its pain to do this but its ok",
+    "storyName": "",
     "weekBefore": "Secret",
     "weekName": "OG",
     "startUnlocked": true,

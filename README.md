@@ -21,6 +21,11 @@ once you got these from the haxelibs... uh you do the thingy mah agmodnoam aw ot
 lime teaesting platforming
 
 
+# if you want to improveing up the engine
+
+if you want to make the engine better read the CONTRIBUTING.md
+
+
 # stuffs about engine
 
 - is chad ✅
@@ -44,6 +49,6 @@ lime teaesting platforming
 
 # info
 
-[play now](https://www.github.com/kstr743/dnb-occ)
+[play now](https://gamebanana.com/mods/418623)
 
 this is running on occurrence engine which is modded [psych engine 0.5.1 git](https://github.com/ShadowMario/FNF-PsychEngine/commit/20ee49137e40eb0d7d06263cb1147ee749832e5d) with some pieces of psych engine 0.6.2 (conductor and musicbeatstate)

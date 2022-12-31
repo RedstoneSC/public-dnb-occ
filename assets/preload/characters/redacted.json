@@ -56,7 +56,7 @@
 			"name": "still"
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/redacted_cosmic",
 	"position": [
 		0,

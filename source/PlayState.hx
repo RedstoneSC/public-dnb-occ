@@ -1178,7 +1178,7 @@ class PlayState extends MusicBeatState // hi guys
 		switch (curStage)
 		{
 			case "repairitup":
-				var bg:FlxSprite = new FlxSprite(-400, -510).loadGraphic(Paths.occurPath("phoneu_re_bg", IMAGES));
+				var bg:FlxSprite = new FlxSprite( -310, -170).loadGraphic(Paths.occurPath("rephonesitup", IMAGES));
 				bg.scale.set(1.1, 1.1);
 				antilase = false;
 				if (!preloadingStuff)

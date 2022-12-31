@@ -85,5 +85,6 @@
 			]
 		}
 	],
-	"image": "boyfriendDialogue"
+	"image": "boyfriendDialogue",
+	"antilasing": true
 }

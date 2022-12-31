@@ -56,7 +56,7 @@
 			"name": "right"
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/bandu_snackinold",
 	"position": [
 		-350,

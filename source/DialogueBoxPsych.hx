@@ -18,6 +18,7 @@ typedef DialogueCharacterFile =
 	var animations:Array<DialogueAnimArray>;
 	var position:Array<Float>;
 	var scale:Float;
+	var antilasing:Bool;
 }
 
 typedef DialogueAnimArray =
@@ -84,6 +85,7 @@ class DialogueCharacter extends FlxSprite
 		else
 			rawJson = Assets.getText(Paths.getPreloadPath('images/dialogue/bf.json'));
 		jsonFile = cast Json.parse(rawJson);
+		antialiasing = jsonFile.antilasing;
 	}
 
 	public function reloadAnimations()

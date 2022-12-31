@@ -20,5 +20,6 @@
 			"loop_name": "talk loop",
 			"idle_name": "talk loop0005"
 		}
-	]
+	],
+	"antilasing": true
 }

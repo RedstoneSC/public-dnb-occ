@@ -20,5 +20,6 @@
 			"idle_name": "idle loop"
 		}
 	],
-	"image": "darkenuDialogue"
+	"image": "darkenuDialogue",
+	"antilasing": false
 }

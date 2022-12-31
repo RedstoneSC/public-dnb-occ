@@ -56,7 +56,7 @@
 			"name": "down"
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/pimble_glob",
 	"position": [
 		110,

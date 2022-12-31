@@ -20,5 +20,6 @@
 			"idle_name": "still"
 		}
 	],
-	"image": "redactedpicture"
+	"image": "redactedpicture",
+	"antilasing": false
 }

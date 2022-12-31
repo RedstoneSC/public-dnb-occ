@@ -56,7 +56,7 @@
 			"name": "PoppinBandu Left"
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/PoppinBandu",
 	"position": [
 		-380,

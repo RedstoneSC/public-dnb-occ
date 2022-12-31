@@ -56,7 +56,7 @@
 			"indices": []
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/darkenu",
 	"position": [
 		100,

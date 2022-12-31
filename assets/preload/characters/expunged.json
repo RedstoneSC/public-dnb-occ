@@ -56,7 +56,7 @@
 			"name": "Right"
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/ExpungedFinal",
 	"position": [
 		-150,

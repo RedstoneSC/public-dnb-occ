@@ -72,5 +72,6 @@
 			"loop_name": "BF CONFUSED LOOP",
 			"idle_name": "BF CONFUSED0"
 		}
-	]
+	],
+	"antilasing": true
 }

@@ -20,5 +20,6 @@
 			"idle_name": "talk0005"
 		}
 	],
-	"image": "dave3dConfidentDialogue"
+	"image": "dave3dConfidentDialogue",
+	"antilasing": false
 }

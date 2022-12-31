@@ -56,7 +56,7 @@
 			"name": "left"
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/cosmic_assets",
 	"position": [
 		0,

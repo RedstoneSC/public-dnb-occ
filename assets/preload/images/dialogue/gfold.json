@@ -59,5 +59,6 @@
 			"idle_name": "GF DEMON0",
 			"loop_name": "GF DEMON LOOP"
 		}
-	]
+	],
+	"antilasing": true
 }
