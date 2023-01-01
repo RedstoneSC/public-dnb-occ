@@ -16,8 +16,10 @@ class BGSprite extends FlxSprite
 		super(posX, posY);
 
 		this.spriteName = spriteName;
-
-		loadGraphic(path); // some issues with the dnb Paths.image returning an actual path and this not
+		if (ClientPrefs.greenScreen)
+			loadGraphic('assets/occur/images/greenScreen.png');
+		else
+			loadGraphic(path); // some issues with the dnb Paths.image returning an actual path and this not
 		this.antialiasing = antialiasing;
 		scrollFactor.set(scrollX, scrollY);
 		this.active = active;

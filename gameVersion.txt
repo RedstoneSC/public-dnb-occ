@@ -1,5 +1,8 @@
-V1.0.2;
--mechanical v2 background fixed
--antilasing disabled for all 3d characters
--flumbo dialogue dithered
--new rephonu menu bg
+V1.0.3;
+- should be final hot fix please
+- mechanical v2 background fixed again
+- extra freeplay category icon scaled down
+- LOCKED CHARACTERS FINALLY WORK CORRECTLY
+- bandu poppin old is no longer fliped
+- green screen mode fully works
+- updated credits

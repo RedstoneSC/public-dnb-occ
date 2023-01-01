@@ -500,7 +500,7 @@ class TitleState extends MusicBeatState
 
 	public static function nextState()
 	{
-		#if !html5
+		#if (!html5 && !android)
 		if (ClientPrefs.curSaveFileNum == null)
 			MusicBeatState.switchState(new SaveFileThing(), true);
 		else if (FlxG.save.data.flashing == null && !FlashingState.leftState)

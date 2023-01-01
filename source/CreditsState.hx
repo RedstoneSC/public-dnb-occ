@@ -160,6 +160,13 @@ class CreditsState extends MusicBeatState
 				"ded764"
 			],
 			[
+				"LewgusCavern",
+				"lewgus",
+				"Made Rephonu hand model. (not originally for this mod)",
+				"https://twitter.com/LewgusCavern",
+				"19ff4b"
+			],
+			[
 				"OS Engine",
 				"os",
 				"Made the colorblind code that was used in this mod.",
@@ -169,14 +176,14 @@ class CreditsState extends MusicBeatState
 			[
 				'Izzy Engine',
 				'izzy',
-				"Modified the crash handler loader of the engine!",
+				"Used the crash handler loader of the engine.",
 				'https://github.com/gedehari/IzzyEngine',
 				'fd14a9'
 			],
 			[
 				'Rembulous',
 				'rem',
-				"Created the Nightmare Bambi assets (except jumpscare).",
+				"Created the Nightmare Bambi assets. (except the jumpscare)",
 				'https://www.youtube.com/channel/UCqf5Okxr3dTFmjbknU2A32g',
 				'1e1e1e'
 			],

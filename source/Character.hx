@@ -70,6 +70,8 @@ class Character extends FlxSprite
 
 	var idleLooped = false;
 
+	public var charLocked = false;
+
 	public static var DEFAULT_CHARACTER:String = 'bf'; // In case a character is missing, it will use BF on its place
 
 	function isCurAnimName(name:String)
@@ -299,13 +301,10 @@ class Character extends FlxSprite
 				playAnim(animation.curAnim.name + '-loop');
 			}
 		}
-		if ((!isPlayer && color == 0xff6f0b5f) || (isPlayer && color != 0xff6f0b5f)) // not overriding miss
-			if (PlayState.instance != null
-				&& color != PlayState.instance.characterColor
-				&& !(curCharacter.toLowerCase().contains("cosmic") && isPlayer && PlayState.instance.endingSong))
-				color = PlayState.instance.characterColor;
-			else if (color != 0xff000000 && PlayState.instance == null) // fix for locked chars charselect
-				color = 0xffffffff; // fallback for character select
+		if (!charLocked) // fix for char selects
+			if ((!isPlayer && color == 0xff6f0b5f) || (isPlayer && color != 0xff6f0b5f)) // not overriding miss
+				if (PlayState.instance != null && color != PlayState.instance.characterColor)
+					color = PlayState.instance.characterColor;
 		super.update(elapsed);
 	}
 

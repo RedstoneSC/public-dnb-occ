@@ -49,6 +49,7 @@ class PiracyState extends MusicBeatState
 
 	override public function update(elapsed)
 	{
+		#if html5
 		if (FlxG.keys.justPressed.Y)
 		{
 			for (i in 0...FlxG.random.int(10, 20))
@@ -56,7 +57,24 @@ class PiracyState extends MusicBeatState
 				CoolUtil.browserLoad(FlxG.random.getObject(links));
 				FlxG.sound.play(Paths.occurPath("vine-boom", SOUNDS, false));
 			}
+			MusicBeatState.switchState(new MainMenuState());
 		}
+		#else
+		#if android
+		for (touch in FlxG.touches)
+		{
+			if (touch.justPressed)
+			{
+				for (i in 0...FlxG.random.int(10, 20))
+				{
+					CoolUtil.browserLoad(FlxG.random.getObject(links));
+					FlxG.sound.play(Paths.occurPath("vine-boom", SOUNDS, false));
+				}
+				MusicBeatState.switchState(new MainMenuState());
+			}
+		}
+		#end
+		#end
 		super.update(elapsed);
 	}
 }

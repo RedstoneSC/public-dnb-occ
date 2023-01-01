@@ -63,7 +63,7 @@
 		0
 	],
 	"healthicon": "bandupoppinold",
-	"flip_x": true,
+	"flip_x": false,
 	"healthbar_colors": [
 		51,
 		127,
